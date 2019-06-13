@@ -39,10 +39,11 @@
     {
         "term": "SGTS",
         "full_term": "Singapore Government Tech Stack",
-        "description": "Description of SGTS",
-        "link": "",
+        "description": "SGTS consists of reusable digital services to improve development efficiency. ",
+        "link": "https://tech.gov.sg",
         "categories": [
-            "platform"
+            "platform",
+            "microservices"
         ]
     }
 ]
