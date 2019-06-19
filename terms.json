@@ -1,10 +1,14 @@
 [
     {
-        "term": "CWP",
-        "full_term": "Content Website Platform",
-        "description": "Description of CWP",
-        "links": [],
-        "categories": []
+        "term": "CWP <script>alert(1337)</script>",
+        "full_term": "Content Website Platform <script>alert(1337)</script>",
+        "description": "Description of CWP <script>alert(1337)</script>",
+        "links": [
+            "<script>alert(1337)</script>"
+        ],
+        "categories": [
+            "<script>alert(1337)</script>"
+        ]
     },
     {
         "term": "DWP",
