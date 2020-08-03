@@ -79,6 +79,7 @@
       {% if page.layout == "layout-page-sidenav" or page.layout == "layout-category-listing" %}
       <div class="mobile-sidenav is-hidden-desktop">
           <button class="sgds-button is-small mobile-sidenav-toggle" type="button">
+              {%- assign collectionName = page.collection -%}
               <span>{{ collectionName | capitalize }}</span>
               <span class="sgds-icon sgds-icon-chevron-down"></span>
           </button>

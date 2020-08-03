@@ -5,6 +5,8 @@
     - SafeEntry
     - TraceTogether
     - SPOTON
+    - SupplyAlly
+    - VigilantGantry 
 
 - name: Open source
   description: Government-built open source technologies and tools

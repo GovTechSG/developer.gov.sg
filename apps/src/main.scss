@@ -173,7 +173,6 @@ a.external-link::after {
 .final-cta {
   a {
     color: white;
-    text-decoration: underline;
   }
 }
 
@@ -182,7 +181,7 @@ a.external-link::after {
 }
 @media screen and (max-width: 1215px) {
   .idea-sprint-poster {
-    max-width: 60%
+    max-width: 60%;
   }
 }
 @media screen and (max-width: 768px) {

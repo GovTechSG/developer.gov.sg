@@ -1,0 +1,108 @@
+---
+title: VigilantGantry
+layout: layout-page-sidenav
+category: Digital Solutions to Address COVID-19
+description: VigilantGantry
+---
+
+<h2>
+  VigilantGantry - Access Control with AI and Video Analytics
+</h2>
+<p>
+  VigilantGantry is a fully automated, contactless gantry system for
+  temperature screening developed by GovTech’s
+  Data Science and Artificial Intelligence Division (DSAID).
+  Driven by AI and deep learning, it augments existing thermal scanners
+  to improve the rate of contactless scanning, ease bottlenecks in long queues
+  outside buildings and reduce manpower required for temperature screening measures.
+</p>
+<p>
+  As part of a nation-wide effort to prevent and contain COVID-19 transmission,
+  government buildings and public venues like shopping malls and workplaces
+  have implemented temperature screening and access control measures.
+  With Singapore gradually opening up, commercial buildings expecting high
+  human traffic are making use of thermal cameras to scan and deny entry to
+  feverish visitors.
+</p>
+<p>
+  However, to maintain a high level of vigilance, this approach comes with
+  some difficulties: conventional thermal cameras cannot properly measure
+  the temperatures of visitors with occluding headgear or hair fringes,
+  requiring human intervention to have the obstruction removed.
+  Conventional systems also require a human operator to monitor the
+  output measurements, possibly for up to six hours at a time.
+</p>
+<figure style="text-align: center">
+  <img src="/assets/img/tech-covid-vigilantgantry-desktop.png"
+  alt="A picture of VigilantGantry on a desktop">
+</figure>
+
+<h3>How does VigilantGantry work?</h3>
+
+<p>
+  <b>It is intelligent</b> - Like a smart home hub, VigilantGantry
+  links the gantry unit with existing thermal camera and CCTV systems.
+  Face recognition, forehead exposure and colour segmentation algorithms
+  provide the intelligence required for proper screening. VigilantGantry
+  highlights any high temperatures detected by the thermal camera, triggering
+  a customisable alert and denying entry to the visitor, whereupon
+  further checks can be performed.
+</p>
+
+<ul>
+  <li>
+    With the <b>YoloV3 person detection model</b>, face segmentation is
+    only triggered when the visitor is positioned within a pre-defined
+    region of interest in the CCTV optical camera. The thermal camera system
+    is hence prevented from indiscriminately scanning and triggering
+    false alerts from background heat signatures such as mobile phones.
+  </li>
+  <li>
+    In <b>colour segmentation</b>, the HSV colour model picks out
+    very distinct colours which correspond to high temperatures.
+    Red patches in the thermal camera reading may indicate the presence of a fever.
+    For greater accuracy in detecting fevers, the algorithm also takes
+    the size of the red patch into account.
+  </li>
+  <li>
+    Visitors wearing headgear will affect the accuracy of temperature screening.
+    Deep learning models are used in <b>face segmentation</b> to quantify
+    the amount of exposed skin on a detected face. When these cases are
+    detected through the CCTV optical camera, VigilantGantry will instruct
+    the gantry to deny entry and direct the visitor to take off their headgear.
+  </li>
+</ul>
+
+<p>
+  <b>It is adaptable and scalable</b> - The DSAID team designed VigilantGantry
+  to integrate with existing thermal scanners without the need to purchase
+  new equipment. For building owners, this means lower implementation costs
+  and manpower needs, adapting to their current processes and plug-and-play
+  scalability according to their needs.
+</p>
+<p>
+  <b>It can support contact tracing efforts</b> - Besides measuring
+  skin temperature and performing facial indexing, VigilantGantry can also
+  capture location, date and time details to aid contact tracing when required.
+  It can also store health and travel declaration data obtained via questionnaires.
+</p>
+<p>
+  <b>It is open-sourced</b> - VigilantGantry’s face segmentation algorithm
+  has been published on GitHub for the private sector to scale and deploy
+  to sites across Singapore. The algorithm is used to detect visitors wearing
+  headgear or with long fringes which may hinder the effectiveness of
+  current thermal scanners.
+</p>
+
+<p>
+  To read more about VigilantGantry, click
+  <a href="https://www.tech.gov.sg/media/technews/how-gt-developed-fit-for-purpose-temperature-scanners-part-2">
+    here</a>.
+</p>
+<p>
+  For a technical walkthrough of VigilantGantry’s development process, click
+  <a href="https://www.youtube.com/watch?v=h9m0BIDIzBA&feature=youtu.be&t=1854">here</a>.
+</p>
+<p>&nbsp;</p>
+<p><em>Last updated 23 July 2020.</em>
+</p>

@@ -34,7 +34,7 @@ layout: layout-page-sidenav
   ZoKrates and Circom. We’ll be focusing on using ZoKrates today, but for your
   knowledge, here’s a quick breakdown of each language and their features:
 </p>
-<p>ZoKrates:</p>
+<p><u>ZoKrates:</u></p>
 <p>
   <strong>High level ZKP library</strong> – you don’t need to know too much
   about the inner workings of a circuit to use it
@@ -51,7 +51,7 @@ layout: layout-page-sidenav
   <strong>Tailored for blockchain use</strong> – ZoKrates was made to be used
   with blockchains and doesn’t have a web sdk yet
 </p>
-<p>Circom:</p>
+<p><u>Circom:</u></p>
 <p>
   <strong>Low level ZKP library</strong> – you’ll get to dive into the inner
   workings of circuits and write code similar to Verilog (if you’re familiar
@@ -288,7 +288,7 @@ layout: layout-page-sidenav
 <p>
   First, you’ll want to create a new file—let’s call it AgeVerifier.sol—and
   paste the lines of code into this. Now, you’ll want find the Solidity Compiler
-  icon, click it and and select the AgeVerifier.sol file. Compile this with the
+  icon, click it and select the AgeVerifier.sol file. Compile this with the
   appropriate compiler version (you can find the pragma of the generated .sol on
   the first line of your file).
 </p>
@@ -436,11 +436,11 @@ zokrates export-verifier</code></pre>
       h[0] == hash1
       h[1] == hash2
       return 1
-  
+
   def ageCheck(private field birthYear, field comparisonYear, field minimumDifference) -&gt; (field):
       field result = if comparisonYear - birthYear &gt;= minimumDifference then 1 else 0 fi
       return result
-  
+
   def main(private field birthYear, private field rand1, private field rand2, field hash1, field hash2, field comparisonYear, field minimumDifference) -&gt; (field):
       birthYearTest = birthYearCheck(birthYear, rand1, rand2, hash1, hash2)
       birthYearTest == 1
@@ -504,13 +504,16 @@ zokrates export-verifier</code></pre>
   >.
 </p>
 <p>
-  If you want to trying following along with the a video version of this
-  workshop instead, or if you’d like to see this done with Circom instead of
-  ZoKrates, you find all the
+  If you want to try following along with a video version of this
+  workshop, or if you’d like to see this done with Circom instead of
+  ZoKrates, you can find all the
   <a
     href="https://www.developer.gov.sg/communities/stack-x-meetups/past-webinars"
     rel="noopener noreferrer nofollow"
-    >recorded webinar here</a
+    >recorded webinars here</a
   >.
 </p>
 <p>Thanks for reading!</p>
+<p>&nbsp;</p>
+<p><i>By Raymond Yeh and Michael Tan</i></p>
+<p><i>Published on 22 July 2020.</i></p>

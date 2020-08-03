@@ -2,17 +2,15 @@
 layout: layout-page
 ---
 
-<div class="row">
-    <div class="col is-3 is-hidden-touch sidenav-container">
-        <div class="sidenav">
-            <aside class="sgds-menu sidebar__inner">
-                <ul class="sgds-menu-list">
-                    {%- include sidenav.html -%}
-                </ul>
-            </aside>
-        </div>
-    </div>
-    <div class="col is-9 is-12-touch">
-        {{ content }}
-    </div>
+<div class="row sidenav-container">
+  <div class="col is-3 is-hidden-touch sidenav">
+    <aside class="sgds-menu">
+      <ul class="sgds-menu-list">
+        {%- include sidenav.html -%}
+      </ul>
+    </aside>
+  </div>
+  <div class="col is-9 is-12-touch">
+    {{ content }}
+  </div>
 </div>

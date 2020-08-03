@@ -1,16 +1,7 @@
-import StickySidebar from "sticky-sidebar";
 import "./main.scss";
 import "sgds-govtech/js/sgds.js";
 
-if (document.querySelector(".sidenav")) {
-  new StickySidebar(".sidenav", {
-    containerSelector: ".sidenav-container",
-    innerWrapperSelector: ".sidebar__inner",
-    topSpacing: 0,
-  });
-}
-
-$(function(){
+$(function() {
   $(".mobile-sidenav-toggle").click(function() {
     $(this)
       .children(".sgds-icon")
@@ -25,5 +16,3 @@ $(function(){
       .toggleClass("is-hidden-touch");
   });
 });
-
-
