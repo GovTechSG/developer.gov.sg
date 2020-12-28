@@ -1,0 +1,358 @@
+# - type: Video Types
+#   speaker: Speaker in the video
+#   title: Video title
+#   Id: Video Id
+
+- type: Opening
+  speaker: 'Dr Vivian Balakrishnan, Chan Cheow Hoe'
+  title: In Conversation with Dr Vivian Balakrishnan
+  id: 'I97NvT5KvKY'
+- type: Panel - Tech Culture
+  speaker: 'Ng Chee Khern, Greg Pryor, Kok Ping Soon'
+  title: Building Digital Organisations
+  id: '73xW6KuUOf4'
+- type: Panel - Tech Culture
+  speaker: 'Parimal Aswani, Patrick Teo, Kevin Ng'
+  title: Products to Platforms - Taking the Steps Towards this Journey
+  id: 'yOGhrxKLLaE'
+- type: Keynote
+  speaker: 'Martin Fowler, Sriram Narayanan'
+  title: 5 Elements of Enterprise Transformation
+  id: 'wOTBm9YBfgU'
+- type: Keynote
+  speaker: Jeff Barr
+  title: 'Rethink, Reinvent, Rebuild'
+  id: 'VCH_XQo4zX4'
+- type: Keynote
+  speaker: Gene Kim
+  title: The Unicorn Project and the FIve Ideals
+  id: '6DWGsShArlM'
+- type: Keynote
+  speaker: Will Grannis
+  title: >-
+    Innovation in the Public Sector - Opportunities in Scale, Data and
+    Community 
+  id: 'nQBOAyb3288'
+- type: Keynote
+  speaker: Mitchell Hashimoto
+  title: 'DevOps: Cloud and Back Again'
+  id: 'l09v1iSz2ME'
+- type: Cloud - Preamble
+  speaker: Melvin Wong
+  title: Introducing the Cloud Track
+  id: 'JB-yc50yUnI'
+- type: Cloud - Talk
+  speaker: Hunter Nield
+  title: 'Seeding the Cloud: Engineering Solutions for Cloud Adoption '
+  id: 'aTBJqQ385Jc'
+- type: Cloud - Talk
+  speaker: Chris Richardson
+  title: 'Six Principles for Refactoring a Monolith to Microservices '
+  id: 'uE61CJnAWeA'
+- type: Cloud - Talk
+  speaker: Tsvi Korren
+  title: 'Achieving Multi-Model Security: Containers, Functions and Cloud Services '
+  id: '6-oA_RQjJEw'
+- type: Cloud - Talk
+  speaker: Dr T.S. Sakthivel
+  title: 'Technical Insights from Large Scale Cloud Migration Experience '
+  id: 'v7Sr5LLaqjE'
+- type: Cloud - Talk
+  speaker: Jerome Walter
+  title: 'Security as an Outcome: Collaborative Metrics to Break Silos '
+  id: '5weDrAjn_m4'
+- type: Cloud - Talk
+  speaker: 'Yap Mia Kai, Jonathan Yee, Natasha Low'
+  title: 'Modernising Tax Administration: IRAS’ Cloud Journey '
+  id: 'fTsTd2Cu674'
+- type: Cloud - Live Chat
+  speaker: 'Hunter Nield, Tang Bing Wan'
+  title: N.A.
+  id: '8deQC0Hz8UQ'
+- type: Cloud - VOD
+  speaker: Paul Ng
+  title: 'Secrets Behind Future-Proofing Systems '
+  id: 'PqMtPTYLz18'
+- type: Cloud - VOD
+  speaker: Maya Shavin
+  title: 'CSS in JS – The Good, the Bad and Ugly '
+  id: 'gUmixpR528w'
+- type: Cloud - VOD
+  speaker: Charles He
+  title: 'Think Big and WINS with Microservices '
+  id: 'nIuIs6YWrM0'
+- type: Cloud - VOD
+  speaker: Ronald Kan
+  title: GitOps your way into Kubernetes
+  id: 'dAAQJcvftAM'
+- type: Cloud - VOD
+  speaker: 'Linda Chang, Eric Tan'
+  title: 'Enabling CI/CD for Agency Apps Projects on Government Commercial Cloud '
+  id: 'vMMXGdakAmg'
+- type: Cloud - VOD
+  speaker: 'Tang Bing Wan, Leong Qin Yan'
+  title: 'Hastening Cloud Migration through Standard Image Builds and Automation '
+  id: '9UrU-4xbSz4'
+- type: Cloud - VOD
+  speaker: Lai Kwan Cheng
+  title: 'Access Control with HashiCorp Vault Dynamic Secrets '
+  id: '1r71NMHR860'
+- type: Cloud - VOD
+  speaker: Hrishikesh Kumar
+  title: >-
+    What It Takes to Deploy your Application on Kubernetes from Different Cloud
+    Providers 
+  id: 'P2v0mSCIyCw'
+- type: App - Preamble
+  speaker: Michael Cheng
+  title: Introducing the App Track
+  id: 'jETqIvZhkB4'
+- type: App - Talk
+  speaker: Dominic Phoon
+  title: >-
+    Leveraging Digital Signing and Face Verification with Singapore’s Digital
+    Identity 
+  id: 'KyTIp-jjnoE'
+- type: App - Talk
+  speaker: Kevin Ng
+  title: 'Re-Introducing Singapore Government Tech Stack '
+  id: 'Cg6aV1IC1jE'
+- type: App - Talk
+  speaker: Foo Ji-Haw
+  title: 'SHIP and HATS – Today and Beyond '
+  id: 'KEJ_LPdv6Nw'
+- type: App - Talk
+  speaker: JJ Asghar
+  title: 'Developing Applications with Kubernetes '
+  id: 'fOHFEWcbXho'
+- type: App - Talk
+  speaker: Li Hongyi
+  title: >-
+    Zero Knowledge Secret Sharing - Securely Digitalising the Singapore
+    Government 
+  id: 'QW31byWd_l8'
+- type: App - Talk
+  speaker: Lim Chinn Hwa
+  title: 'How Can We Create a Smart Nation through Sensors and Data? '
+  id: 'GyDqlRy73VQ'
+- type: App - Live Chat
+  speaker: 'Kevin Ng, Chia Hsiao Ming'
+  title: N.A.
+  id: 'GtkQAL5a3do'
+- type: App - VOD
+  speaker: Tan Hwee-Xian
+  title: >-
+    Creating a Barrier-Free Singapore through Crowdsourcing - The SmartBFA
+    Experience 
+  id: 'y_fMJ1RrQhQ'
+- type: App - VOD
+  speaker: Ryne Cheow
+  title: 'Mobile DevOps in Enterprises '
+  id: 'eS_W-PhSkXg'
+- type: App - VOD
+  speaker: Paul Asjes
+  title: 'It Could Always Be Worse: Famous Bugs in Software Engineering '
+  id: 'RnjejqL7Vyw'
+- type: App - VOD
+  speaker: Han Jing
+  title: 'TRANSCRIBE, A Journey to Grow an AI Platform'
+  id: 'Lj56hBCT7Wc'
+- type: App - VOD
+  speaker: Antariksh Mahajan
+  title: 'The Economics of Technical Debt '
+  id: 'chg35IciuNs'
+- type: App - VOD
+  speaker: 'Lau Lee Hong, Daniel Tan'
+  title: 'Designing the SG Tech Stack (Sensor Node) using mbedOS '
+  id: 'FwExlP-L1Qo'
+- type: App - VOD
+  speaker: Sim Cher Boon
+  title: 'All Your Git is Mine.. Wait.. Env Too? '
+  id: 'XkRNaIDebZk'
+- type: App - VOD
+  speaker: Liu Feng-Yuan
+  title: 'Responsible AI: Building Trust in Artificial Intelligence '
+  id: 'Bcl1_isSe9g'
+- type: App - VOD
+  speaker: Lim Zui Young
+  title: 'BYO-DF: Build Your Own Device Farm '
+  id: '4gFZUONUA84'
+- type: App - VOD
+  speaker: Marcus Tee
+  title: 'MLOps: Enterprise-Ready DevOps for Machine Learning '
+  id: 'Bs6khgo40_s'
+- type: App - VOD
+  speaker: Bertrand Lee
+  title: 'VICA – GovTech’s Next-Generation Chatbot Platform '
+  id: '2avfFKw7s-8'
+- type: App - VOD
+  speaker: Curtis Tan
+  title: 'Fun with Docker '
+  id: 'Ld7DzW_4Wlg'
+- type: App - VOD
+  speaker: Christopher Sia
+  title: >-
+    Making Convolution Neural Network work for you with Video Analytics System
+    (VAS) 
+  id: 'tp_6jD8NKkA'
+- type: App - VOD
+  speaker: 'Michael Lee, Lim Yee Wee'
+  title: 'Leveraging Data and AI to Improve Service Delivery and User Experience '
+  id: '175ock_Ztj0'
+- type: App - VOD
+  speaker: Donnie Prakoso
+  title: >-
+    Welcome to the Age of Serverless: Integration with Event-Driven
+    Microservices 
+  id: 'Nr_fCdesqog'
+- type: App - VOD
+  speaker: Eugene Soh
+  title: AR/VR for Good
+  id: 'q7QXDmrQgGU'
+- type: App - VOD
+  speaker: Chin Hong Hua
+  title: 'Architectural Security Considerations for IoT Solutions '
+  id: 'R7m_fSh3emM'
+- type: App - VOD
+  speaker: Yubo Dong
+  title: 'API Gateway Evolution at Funding Societies '
+  id: 'aUb015krDgs'
+- type: App - VOD
+  speaker: Antariksh Mahajan
+  title: 'A Great Migration: AngularJS to React '
+  id: 'qjgSx7s9DbI'
+- type: App - VOD
+  speaker: Liang Yuanruo
+  title: 'Securely Digitise Your Processes with FormSG Webhooks '
+  id: 'GSGZ5iLSFtM'
+- type: Tech Culture - Preamble
+  speaker: Karen Kee
+  title: Introducing the Tech Culture Track
+  id: 'K7GCwj8sPGY'
+- type: Tech Culture - Talk
+  speaker: Mark Birch
+  title: 'Building Internal Developer Communities '
+  id: '61tOBAVbs20'
+- type: Tech Culture - Talk
+  speaker: Irina Chiew
+  title: 'The Agile Innovation Paradox '
+  id: 'X6MnVW0npCg'
+- type: Tech Culture - Talk
+  speaker: 'Chia Hsiao Ming, Wei Junyu'
+  title: Singapore Government Developer Portal
+  id: 'UgQ1GVSM_N4'
+- type: Tech Culture - Talk
+  speaker: Ng Hock Keong
+  title: 'The UX Journey of CPF Digital Service '
+  id: 'rUSXyCKxMUM'
+- type: Tech Culture - Talk
+  speaker: 'Sean Jalleh, Barbara Natali-Sherman'
+  title: Evoling Role of Design
+  id: 'OrUNzZa4gbs'
+- type: Tech Culture - Talk
+  speaker: Aiko Klostermann
+  title: 'Artificial Intelligence? - More like Artificial Stupidity! '
+  id: 'wjhLa36ASw8'
+- type: Tech Culture - Live Chat
+  speaker: 'Evangeline Chua, Ryan Ashneil'
+  title: N.A.
+  id: 'w_cCDMJZkD0'
+- type: Tech Culture - VOD
+  speaker: Daren Ng
+  title: Singapore Government Design System
+  id: 'bq_BE0y-JSM'
+- type: Tech Culture - VOD
+  speaker: Cameron Townshend
+  title: 'Open Source Software: Please Build Responsibly '
+  id: 'y9K6bYPRImE'
+- type: Tech Culture - VOD
+  speaker: 'Chew Kia Hwee, Gloria Chua'
+  title: >-
+    Designing for the 100%: Building an Inclusive and Accessible National
+    Digital Identity 
+  id: 'xNJQEPC1Ojw'
+- type: Tech Culture - VOD
+  speaker: Joseph Tan
+  title: Data Transformation – A GovTech Story
+  id: '7pkxJ03ZP1Y'
+- type: Tech Culture - VOD
+  speaker: JJ Asghar
+  title: 'Lessons Learned from Cultivating Open Source Projects and Communities '
+  id: 'xpYwmubWbTY'
+- type: Tech Culture - VOD
+  speaker: Ong Lay Teen
+  title: Building an Assistive Technology Platform for the Smart Nation
+  id: 'l2tHh1OHTCk'
+- type: Tech Culture - VOD
+  speaker: Kwa Jie Hao
+  title: >-
+    The Secret to Building Fast, Secure, and Cheap Websites for the Singapore
+    Government 
+  id: 'T92TBl6bEMk'
+- type: Tech Culture - VOD
+  speaker: 'Joel Kek, Samantha Wong, Christabel Neo'
+  title: 'Digital4Good: Inspiring Kids to Code '
+  id: 'dL3HF5tsvpg'
+- type: Tech Culture - VOD
+  speaker: Lee Chen Tong
+  title: 'Participatory Design of Community Spaces using Virtual Reality '
+  id: 'mmiMfYL-rNk'
+- type: Tech Culture - VOD
+  speaker: Dalson Tan
+  title: 'The A11yphant in the Room '
+  id: 'obxuDVMFIoM'
+- type: Tech Culture - VOD
+  speaker: Clement Ho
+  title: Raising the Bar in Hiring while Reducing Bias
+  id: 'C7qmyCPZkI4'
+- type: Tech Culture - VOD
+  speaker: Nikhil Choudhary
+  title: >-
+    You Won’t BELIEVE This HACK to Improve Your Technical Communication!
+    WEIRD!!! 
+  id: 'MOJ3wrDIbiA'
+- type: Tech Culture - VOD
+  speaker: Samantha Wong
+  title: 'How Much Testing Is Enough Testing '
+  id: '-LDuWlIYoR8'
+- type: Tech Culture - VOD
+  speaker: 'Andrew Sng, Joy Ng'
+  title: GovTech Assisted Living Ecosystem
+  id: 'FWEvtfBA4eM'
+- type: Tech Culture - VOD
+  speaker: Sarah Salim
+  title: How to be a Data-Aware Designer
+  id: 'iPc7YXlp7Zo'
+- type: COVID-19 Tech -  Preamble
+  speaker: Chloe Yao
+  title: Introducing the COVID-19 Tech Track
+  id: 'sVCnZOatsSU'
+- type: COVID-19 Tech - Talk
+  speaker: Vernon Lee
+  title: 'Digital Solutions in the COVID-19 Response: The Singapore Experience '
+  id: 'h-qz6KEteH0'
+- type: COVID-19 Tech - Talk
+  speaker: Joycelyn Chua
+  title: 'Designing Responsibly in the Time of A Pandemic '
+  id: '_E1wG-gDuUg'
+- type: COVID-19 Tech - Talk
+  speaker: 'Quek Yang Boon, Dominic Chan'
+  title: 'The Design and Manufacturing Journey behind TraceTogether Tokens '
+  id: 'bD9VwjXOTcE'
+- type: COVID-19 Tech - Talk
+  speaker: Jean Tan
+  title: 'Sending Messages At-Scale with Postman.gov.sg '
+  id: 'gZUjxYiSS_s'
+- type: COVID-19 Tech - Talk
+  speaker: Chong Jia Yi
+  title: |
+    Bridging the Cyber-Physical Worlds with Robotics and Smart Sensors
+  id: 'KIqdqhSoG2c'
+- type: COVID-19 Tech - Live Chat
+  speaker: 'Jason Bay, Quek Yang Boon'
+  title: N.A.
+  id: 'W6KWeOGObjI'
+- type: COVID-19 Tech - Live Chat
+  speaker: Chong Jia Yi
+  title: 'Experiences in building the DOSS Sensors and Robotics Stack '
+  id: 'xewjqquMIR8'

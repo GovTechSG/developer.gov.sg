@@ -6,40 +6,60 @@ description: >
   event in Singapore that connects government, industry and the tech community.
 ---
 
-<h2>
-  Join us at
-  <a href="https://www.stack.gov.sg" target="_blank" rel="noopener noreferrer"
-    >STACK 2020</a
-  >
-</h2>
-<a href="https://www.stack.gov.sg" target="_blank" rel="noopener noreferrer">
-  <img
-    src="/assets/img/stack-2020-banner.png"
-    alt="stack 2020 banner"
-    style="width: 100%"
-    id="stack-2020-banner"
-  />
-</a>
+<h2>Stack 2020</h2>
 <p>
-  STACK has levelled up to bring you an immersive digital experience from 1 - 3
-  December 2020!
-  <strong>If you missed any sessions, you can still </strong
-  ><a href="https://go.gov.sg/stack2020liveregister" target="_blank"
-    ><strong>register here</strong></a
-  ><strong> to watch replays for a limited time.</strong>
+  Thank you for joining us at STACK 2020. Missed any sessions? You can watch the video replays below
 </p>
-<p>
-  The STACK virtual conference is dedicated to inspire developers and
-  technologists to tackle the challenge of building a new future. Engage in
-  discussions with industry leaders on key technology trends: AI, UX/UI, Cloud
-  and more! Find out how our developers have emerged stronger amidst the
-  pandemic by adapting to this new norm of working.
-</p>
-<p>
-  For more information, head on to
-  <a href="https://www.stack.gov.sg" target="_blank" ref="noopener noreferrer"
-    >www.stack.gov.sg</a
-  >. To register and watch replays of the conference for a limited time, please
-  do so
-  <a href="https://go.gov.sg/stack2020liveregister" target="_blank">here</a>.
-</p>
+
+<div class="row is-multiline">
+  {% comment %}
+  {% assign videos = site.data.stack2020-videos | where: "type", "Keynote" %}
+  {% endcomment %}
+  {% for video in site.data.stack2020-videos %}
+  {% assign video_url = "https://www.youtube.com/watch?v=" | append: video.id %}
+  {% assign video_title = video.title %}
+  {% assign video_speaker = video.speaker %}
+  {% assign video_image = "https://img.youtube.com/vi/video_id/hqdefault.jpg" | replace: "video_id", video.id %}
+  <div class="col is-6 is-flex">
+    <div class="sgds-card">
+      <div class="sgds-card-content">
+        <h4>
+          <a href="{{ video_url }}">
+            {{ video_title }}
+          </a>
+        </h4>
+        <div class="sgds-card-image">
+          <figure class="sgds-image">
+            <a href="{{ video_url }}">
+              <img
+                alt="stack 2020 video thumbnail"
+                src="{{ video_image }}"
+              />
+            </a>
+          </figure>
+        </div>
+        <p>
+          {{ video_speaker }}
+        </p>
+      </div>
+      <div class="sgds-card-footer">
+        <a
+          href="{{ video_url }}"
+          class="sgds-card-footer-item"
+        >
+          Watch video
+        </a>
+        {% comment %} Replace the additional link when ready {% endcomment %}
+        {% if video.additionalLink == nil %}
+          <a
+            href="{{ video_url }}"
+            class="sgds-card-footer-item"
+          >
+          View Slides
+          </a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
