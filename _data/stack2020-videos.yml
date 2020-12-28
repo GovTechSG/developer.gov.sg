@@ -313,8 +313,7 @@
 - type: Tech Culture - Talk
   speakers: 'Chia Hsiao Ming, Wei Junyu'
   speakers_title: |-
-    Director, Engineering Productivity, GovTech
-    Associate Software Engineer, GovTech
+    Director, Engineering Productivity, GovTech| Software Engineer, GovTech
   title: Singapore Government Developer Portal
   id: 'UgQ1GVSM_N4'
 - type: Tech Culture - Talk
@@ -383,9 +382,7 @@
 - type: Tech Culture - VOD
   speakers: 'Joel Kek, Samantha Wong, Christabel Neo'
   speakers_title: |-
-    Software Engineer, GovTech
-    Software Engineer, GovTech
-    Software Engineer, GovTech
+    Software Engineer, GovTech| Software Engineer, GovTech| Software Engineer, GovTech
   title: 'Digital4Good: Inspiring Kids to Code '
   id: 'dL3HF5tsvpg'
 - type: Tech Culture - VOD
