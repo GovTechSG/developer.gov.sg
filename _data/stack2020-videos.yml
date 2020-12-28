@@ -1,7 +1,7 @@
 # - type: Video Types
-#   speakers: Speakers in the video. Split by  ", "
+#   speakers: Speakers in the video. Split by ", "
 #     📢 Please make sure that the speakers name is in the same sequence as speakers title 📢 
-#   speakers_title: Speakers' title in the video. Split by  "| "
+#   speakers_title: Speakers' title in the video. Split by "| "
 #   title: Video title
 #   id: Video Id
 #   Reference: https://docs.google.com/spreadsheets/d/1szkJAWTP0GZCNjZAxQobBAUsor_4URaqheqH70r5BZI/edit#gid=0
