@@ -1,7 +1,7 @@
 # - type: Video Types
 #   speaker: Speaker in the video
 #   title: Video title
-#   Id: Video Id
+#   id: Video Id
 
 - type: Opening
   speaker: 'Dr Vivian Balakrishnan, Chan Cheow Hoe'

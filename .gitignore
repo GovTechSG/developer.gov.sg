@@ -3,6 +3,7 @@ _site
 .idea
 .vscode
 .jekyll-cache
+.jekyll-metadata
 .netlify
 .env
 node_modules

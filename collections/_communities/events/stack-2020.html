@@ -4,63 +4,65 @@ layout: layout-page-sidenav
 description: >
   STACK is GovTech’s flagship conference and the largest government-led developers
   event in Singapore that connects government, industry and the tech community.
+video_list_layout: 'stack-2020-video-list.html'
 ---
 
-<h2>Stack 2020</h2>
+<h2>STACK 2020</h2>
 <p>
   Thank you for joining us at STACK 2020. Missed any sessions? You can watch the video replays below
 </p>
 
-<div class="row is-multiline">
-  {% comment %}
-  {% assign videos = site.data.stack2020-videos | where: "type", "Keynote" %}
-  {% endcomment %}
-  {% for video in site.data.stack2020-videos %}
-  {% assign video_url = "https://www.youtube.com/watch?v=" | append: video.id %}
-  {% assign video_title = video.title %}
-  {% assign video_speaker = video.speaker %}
-  {% assign video_image = "https://img.youtube.com/vi/$video_id/hqdefault.jpg" | replace: "$video_id", video.id %}
-  <div class="col is-6 is-flex">
-    <div class="sgds-card">
-      <div class="sgds-card-content">
-        <h4>
-          <a href="{{ video_url }}">
-            {{ video_title }}
-          </a>
-        </h4>
-        <div class="sgds-card-image">
-          <figure class="sgds-image">
-            <a href="{{ video_url }}">
-              <img
-                alt="stack 2020 video thumbnail"
-                src="{{ video_image }}"
-              />
-            </a>
-          </figure>
-        </div>
-        <p>
-          <strong>Speakers</strong> <br>
-          {{ video_speaker }}
-        </p>
-      </div>
-      <div class="sgds-card-footer">
-        <a
-          href="{{ video_url }}"
-          class="sgds-card-footer-item"
-        >
-          Watch video
+<div class="sgds-tabs">
+  <ul class="no-margin" role="tablist">
+    <li class="is-active">
+        <a data-tab="#tab1" role="tab" aria-selected="true" aria-controls="tab1">
+          Opening & Keynotes
         </a>
-        {% comment %} Replace the additional link when ready {% endcomment %}
-        {% if video.additionalLink != nil %}
-          <a
-            href="{{ video_url }}"
-            class="sgds-card-footer-item"
-          >
-          View Slides
-          </a>
-        {% endif %}
-      </div>
-    </div>
-  </div>
-  {% endfor %}
+    </li>
+    <li>
+        <a data-tab="#tab2" role="tab" aria-selected="false" aria-controls="tab2">
+          Cloud
+        </a>
+    </li>
+    <li>
+        <a data-tab="#tab3" role="tab" aria-selected="false" aria-controls="tab3">
+          App
+        </a>
+    </li>
+    <li>
+      <a data-tab="#tab4" role="tab" aria-selected="false" aria-controls="tab4">
+        Tech Culture
+      </a>
+    </li>
+    <li>
+      <a data-tab="#tab5" role="tab" aria-selected="false" aria-controls="tab5">
+        Covid-19 Tech
+      </a>
+    </li>
+  </ul>
+</div>
+<div class="row" id="tab1">
+  {% if page.video_list_layout %}
+    {% include_relative {{ page.video_list_layout }} type="Opening, Keynote" %}
+  {% endif %}
+</div>
+<div class="row" id="tab2">
+  {% if page.video_list_layout %}
+    {% include_relative {{ page.video_list_layout }} type="Cloud - Preamble, Cloud - Talk, Cloud - VOD" %}
+  {% endif %}
+</div>
+<div class="row" id="tab3">
+  {% if page.video_list_layout %}
+  {% include_relative {{ page.video_list_layout }} type="App - Preamble, App - Talk, App - Live Chat, App - VOD" %}
+{% endif %}
+</div>
+<div class="row" id="tab4">
+  {% if page.video_list_layout %}
+  {% include_relative {{ page.video_list_layout }} type="Tech Culture - Preamble, Tech Culture - Talk, Tech Culture - VOD" %}
+{% endif %}
+</div>
+<div class="row" id="tab5">
+  {% if page.video_list_layout %}
+  {% include_relative {{ page.video_list_layout }} type="COVID-19 Tech -  Preamble, COVID-19 Tech - Talk, COVID-19 Tech - Live Chat" %}
+{% endif %}
 </div>
