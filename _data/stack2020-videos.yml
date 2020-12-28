@@ -1,358 +1,469 @@
 # - type: Video Types
-#   speaker: Speaker in the video
+#   speakers: Speaker in the video
+#   speakers_title: Speakers' title in the video
 #   title: Video title
 #   id: Video Id
+#   Reference: https://docs.google.com/spreadsheets/d/1szkJAWTP0GZCNjZAxQobBAUsor_4URaqheqH70r5BZI/edit#gid=0
 
 - type: Opening
-  speaker: 'Dr Vivian Balakrishnan, Chan Cheow Hoe'
+  speakers: 'Dr Vivian Balakrishnan, Chan Cheow Hoe'
+  speakers_title: >-
+    Minister for Foreign Affairs and Minister-in-Charge of the Smart Nation
+    Initiative| Government Chief Digital Technology Officer
   title: In Conversation with Dr Vivian Balakrishnan
   id: 'I97NvT5KvKY'
 - type: Panel - Tech Culture
-  speaker: 'Ng Chee Khern, Greg Pryor, Kok Ping Soon'
+  speakers: 'Ng Chee Khern, Greg Pryor, Kok Ping Soon'
+  speakers_title: >-
+    Permanent Secretary, Smart Nation and Digital Government| Senior Vice
+    President, People and Performance Evangelist, Workday| Chief Executive,
+    GovTech
   title: Building Digital Organisations
   id: '73xW6KuUOf4'
 - type: Panel - Tech Culture
-  speaker: 'Parimal Aswani, Patrick Teo, Kevin Ng'
+  speakers: 'Parimal Aswani, Kevin Ng, Patrick Teo'
+  speakers_title: >-
+    Director of Technology, Temasek| Director, CODEX, GovTech| Site Lead and
+    Engineering Director, Payments, Google Singapore
   title: Products to Platforms - Taking the Steps Towards this Journey
   id: 'yOGhrxKLLaE'
 - type: Keynote
-  speaker: 'Martin Fowler, Sriram Narayanan'
+  speakers: 'Martin Fowler, Sriram Narayanan'
+  speakers_title: 'Chief Scientist, ThoughtWorks| Technology Principal, ThoughtWorks'
   title: 5 Elements of Enterprise Transformation
   id: 'wOTBm9YBfgU'
 - type: Keynote
-  speaker: Jeff Barr
+  speakers: Jeff Barr
+  speakers_title: 'Vice President & Chief Evangelist, Amazon Web Services'
   title: 'Rethink, Reinvent, Rebuild'
   id: 'VCH_XQo4zX4'
 - type: Keynote
-  speaker: Gene Kim
+  speakers: Gene Kim
+  speakers_title: 'Founder, IT Revolution'
   title: The Unicorn Project and the FIve Ideals
   id: '6DWGsShArlM'
 - type: Keynote
-  speaker: Will Grannis
+  speakers: Will Grannis
+  speakers_title: 'Managing Director, Chief Technology Officer (CTO) Office, Google Cloud'
   title: >-
     Innovation in the Public Sector - Opportunities in Scale, Data and
     Community 
   id: 'nQBOAyb3288'
 - type: Keynote
-  speaker: Mitchell Hashimoto
+  speakers: Mitchell Hashimoto
+  speakers_title: 'Mitchell Hashimoto, Co-Founder and CTO, HashiCorp'
   title: 'DevOps: Cloud and Back Again'
   id: 'l09v1iSz2ME'
 - type: Cloud - Preamble
-  speaker: Melvin Wong
+  speakers: Melvin Wong
+  speakers_title: 'Lead Infrastructure Engineer, Government Commercial Cloud, GovTech'
   title: Introducing the Cloud Track
   id: 'JB-yc50yUnI'
 - type: Cloud - Talk
-  speaker: Hunter Nield
+  speakers: Hunter Nield
+  speakers_title: 'Distinguished Engineer, GovTech'
   title: 'Seeding the Cloud: Engineering Solutions for Cloud Adoption '
   id: 'aTBJqQ385Jc'
 - type: Cloud - Talk
-  speaker: Chris Richardson
+  speakers: Chris Richardson
+  speakers_title: 'Architect, Eventuate, Inc'
   title: 'Six Principles for Refactoring a Monolith to Microservices '
   id: 'uE61CJnAWeA'
 - type: Cloud - Talk
-  speaker: Tsvi Korren
+  speakers: Tsvi Korren
+  speakers_title: 'Field Chief Technology Officer, Aqua Security'
   title: 'Achieving Multi-Model Security: Containers, Functions and Cloud Services '
   id: '6-oA_RQjJEw'
 - type: Cloud - Talk
-  speaker: Dr T.S. Sakthivel
+  speakers: Dr T.S. Sakthivel
+  speakers_title: 'Director, Solution Architect Office (SAO), GovTech'
   title: 'Technical Insights from Large Scale Cloud Migration Experience '
   id: 'v7Sr5LLaqjE'
 - type: Cloud - Talk
-  speaker: Jerome Walter
+  speakers: Jerome Walter
+  speakers_title: 'Director, Security Modernisation, VMware'
   title: 'Security as an Outcome: Collaborative Metrics to Break Silos '
   id: '5weDrAjn_m4'
 - type: Cloud - Talk
-  speaker: 'Yap Mia Kai, Jonathan Yee, Natasha Low'
+  speakers: 'Yap Mia Kai, Jonathan Yee, Natasha Low'
+  speakers_title: >-
+    Director, IRIN 3 Architecture Office (I3AO), Inland Revenue Authority of
+    Singapore (IRAS)| Senior Infocomm Specialist, Inland Revenue Authority of
+    Singapore (IRAS)| Principal UX Specialist, Inland Revenue Authority of
+    Singapore (IRAS)
   title: 'Modernising Tax Administration: IRAS’ Cloud Journey '
   id: 'fTsTd2Cu674'
 - type: Cloud - Live Chat
-  speaker: 'Hunter Nield, Tang Bing Wan'
+  speakers: 'Hunter Nield, Tang Bing Wan'
+  speakers_title: 'Distinguished Engineer, GovTech| Principal Infrastructure Architect, GovTech'
   title: Live Chat with Hunter Nield and Tang Bing Wan
   id: '8deQC0Hz8UQ'
 - type: Cloud - VOD
-  speaker: Paul Ng
+  speakers: Paul Ng
+  speakers_title: 'Principal Solution Architect, GovTech'
   title: 'Secrets Behind Future-Proofing Systems '
   id: 'PqMtPTYLz18'
 - type: Cloud - VOD
-  speaker: Maya Shavin
+  speakers: Maya Shavin
+  speakers_title: 'Senior Front-End Developer, Cloudinary'
   title: 'CSS in JS – The Good, the Bad and Ugly '
   id: 'gUmixpR528w'
 - type: Cloud - VOD
-  speaker: Charles He
+  speakers: Charles He
+  speakers_title: 'Principal Solution Architect, GovTech'
   title: 'Think Big and WINS with Microservices '
   id: 'nIuIs6YWrM0'
 - type: Cloud - VOD
-  speaker: Ronald Kan
+  speakers: Ronald Kan
+  speakers_title: 'Software Engineer, GovTech'
   title: GitOps your way into Kubernetes
   id: 'dAAQJcvftAM'
 - type: Cloud - VOD
-  speaker: 'Linda Chang, Eric Tan'
+  speakers: 'Linda Chang, Eric Tan'
+  speakers_title: 'Assistant Director, GovTech| Applications Consultant, GovTech'
   title: 'Enabling CI/CD for Agency Apps Projects on Government Commercial Cloud '
   id: 'vMMXGdakAmg'
 - type: Cloud - VOD
-  speaker: 'Tang Bing Wan, Leong Qin Yan'
+  speakers: 'Tang Bing Wan, Leong Qin Yan'
+  speakers_title: >-
+    Principal Infrastructure Architect, GovTech| Senior Technical Consultant,
+    GovTech
   title: 'Hastening Cloud Migration through Standard Image Builds and Automation '
   id: '9UrU-4xbSz4'
 - type: Cloud - VOD
-  speaker: Lai Kwan Cheng
+  speakers: Lai Kwan Cheng
+  speakers_title: 'DevOps Engineer, GovTech'
   title: 'Access Control with HashiCorp Vault Dynamic Secrets '
   id: '1r71NMHR860'
 - type: Cloud - VOD
-  speaker: Hrishikesh Kumar
+  speakers: Hrishikesh Kumar
+  speakers_title: 'Software Engineer, IBM'
   title: >-
     What It Takes to Deploy your Application on Kubernetes from Different Cloud
     Providers 
   id: 'P2v0mSCIyCw'
 - type: App - Preamble
-  speaker: Michael Cheng
+  speakers: Michael Cheng
+  speakers_title: 'Lead Software Engineer, GovTech'
   title: Introducing the App Track
   id: 'jETqIvZhkB4'
 - type: App - Talk
-  speaker: Dominic Phoon
+  speakers: Dominic Phoon
+  speakers_title: 'Deputy Director, National Digital Identity, GovTech'
   title: >-
     Leveraging Digital Signing and Face Verification with Singapore’s Digital
     Identity 
   id: 'KyTIp-jjnoE'
 - type: App - Talk
-  speaker: Kevin Ng
+  speakers: Kevin Ng
+  speakers_title: 'Director, CODEX, GovTech'
   title: 'Re-Introducing Singapore Government Tech Stack '
   id: 'Cg6aV1IC1jE'
 - type: App - Talk
-  speaker: Foo Ji-Haw
+  speakers: Foo Ji-Haw
+  speakers_title: 'Deputy Director, CODEX, GovTech'
   title: 'SHIP and HATS – Today and Beyond '
   id: 'KEJ_LPdv6Nw'
 - type: App - Talk
-  speaker: JJ Asghar
+  speakers: JJ Asghar
+  speakers_title: 'JJ Asghar, Developer Advocate, IBM'
   title: 'Developing Applications with Kubernetes '
   id: 'fOHFEWcbXho'
 - type: App - Talk
-  speaker: Li Hongyi
+  speakers: Li Hongyi
+  speakers_title: 'Director, Open Government Products, GovTech'
   title: >-
     Zero Knowledge Secret Sharing - Securely Digitalising the Singapore
     Government 
   id: 'QW31byWd_l8'
 - type: App - Talk
-  speaker: Lim Chinn Hwa
+  speakers: Lim Chinn Hwa
+  speakers_title: 'Senior Director, Smart Nation Platform Solutions, GovTech'
   title: 'How Can We Create a Smart Nation through Sensors and Data? '
   id: 'GyDqlRy73VQ'
 - type: App - Live Chat
-  speaker: 'Kevin Ng, Chia Hsiao Ming'
+  speakers: 'Kevin Ng, Chia Hsiao Ming'
+  speakers_title: 'Director, CODEX, GovTech| Director, Engineering Productivity, GovTech'
   title: Live Chat with Kevin Ng and Chia Hsiao Ming
   id: 'GtkQAL5a3do'
 - type: App - VOD
-  speaker: Tan Hwee-Xian
+  speakers: Tan Hwee-Xian
+  speakers_title: 'Data Science & Operations Research Advisor, FedEx Express, Asia Pacific'
   title: >-
     Creating a Barrier-Free Singapore through Crowdsourcing - The SmartBFA
     Experience 
   id: 'y_fMJ1RrQhQ'
 - type: App - VOD
-  speaker: Ryne Cheow
+  speakers: Ryne Cheow
+  speakers_title: 'Engineering Lead, NTUC Enterprise'
   title: 'Mobile DevOps in Enterprises '
   id: 'eS_W-PhSkXg'
 - type: App - VOD
-  speaker: Paul Asjes
+  speakers: Paul Asjes
+  speakers_title: 'Developer Support Engineer, Stripe'
   title: 'It Could Always Be Worse: Famous Bugs in Software Engineering '
   id: 'RnjejqL7Vyw'
 - type: App - VOD
-  speaker: Han Jing
+  speakers: Han Jing
+  speakers_title: 'Senior Product Manager, GovTech'
   title: 'TRANSCRIBE, A Journey to Grow an AI Platform'
   id: 'Lj56hBCT7Wc'
 - type: App - VOD
-  speaker: Antariksh Mahajan
+  speakers: Antariksh Mahajan
+  speakers_title: 'Associate Software Engineer, Open Government Products, GovTech'
   title: 'The Economics of Technical Debt '
   id: 'chg35IciuNs'
 - type: App - VOD
-  speaker: 'Lau Lee Hong, Daniel Tan'
+  speakers: 'Lau Lee Hong, Daniel Tan'
+  speakers_title: |-
+    Associate Embedded Software Engineer, GovTech
+    Student, Stanford University
   title: 'Designing the SG Tech Stack (Sensor Node) using mbedOS '
   id: 'FwExlP-L1Qo'
 - type: App - VOD
-  speaker: Sim Cher Boon
+  speakers: Sim Cher Boon
+  speakers_title: 'Student, Singapore Management University (SMU)'
   title: 'All Your Git is Mine.. Wait.. Env Too? '
   id: 'XkRNaIDebZk'
 - type: App - VOD
-  speaker: Liu Feng-Yuan
+  speakers: Liu Feng-Yuan
+  speakers_title: 'CEO, BasisAI'
   title: 'Responsible AI: Building Trust in Artificial Intelligence '
   id: 'Bcl1_isSe9g'
 - type: App - VOD
-  speaker: Lim Zui Young
+  speakers: Lim Zui Young
+  speakers_title: 'DevOps and Quality Engineer, GovTech'
   title: 'BYO-DF: Build Your Own Device Farm '
   id: '4gFZUONUA84'
 - type: App - VOD
-  speaker: Marcus Tee
+  speakers: Marcus Tee
+  speakers_title: 'Solution Architect, Microsoft'
   title: 'MLOps: Enterprise-Ready DevOps for Machine Learning '
   id: 'Bs6khgo40_s'
 - type: App - VOD
-  speaker: Bertrand Lee
+  speakers: Bertrand Lee
+  speakers_title: 'Smart Nation Fellow, GovTech'
   title: 'VICA – GovTech’s Next-Generation Chatbot Platform '
   id: '2avfFKw7s-8'
 - type: App - VOD
-  speaker: Curtis Tan
+  speakers: Curtis Tan
+  speakers_title: 'Associate Software Engineer, GovTech'
   title: 'Fun with Docker '
   id: 'Ld7DzW_4Wlg'
 - type: App - VOD
-  speaker: Christopher Sia
+  speakers: Christopher Sia
+  speakers_title: 'Assistant Director (Video Analytics), GovTech'
   title: >-
     Making Convolution Neural Network work for you with Video Analytics System
     (VAS) 
   id: 'tp_6jD8NKkA'
 - type: App - VOD
-  speaker: 'Michael Lee, Lim Yee Wee'
+  speakers: 'Michael Lee, Lim Yee Wee'
+  speakers_title: 'Senior Project Manager, GovTech| Applications Consultant, GovTech'
   title: 'Leveraging Data and AI to Improve Service Delivery and User Experience '
   id: '175ock_Ztj0'
 - type: App - VOD
-  speaker: Donnie Prakoso
+  speakers: Donnie Prakoso
+  speakers_title: 'Senior Developer Advocate, Amazon Web Services'
   title: >-
     Welcome to the Age of Serverless: Integration with Event-Driven
     Microservices 
   id: 'Nr_fCdesqog'
 - type: App - VOD
-  speaker: Eugene Soh
+  speakers: Eugene Soh
+  speakers_title: 'Founder, Mind Palace'
   title: AR/VR for Good
   id: 'q7QXDmrQgGU'
 - type: App - VOD
-  speaker: Chin Hong Hua
+  speakers: Chin Hong Hua
+  speakers_title: 'Solution Architect, F5'
   title: 'Architectural Security Considerations for IoT Solutions '
   id: 'R7m_fSh3emM'
 - type: App - VOD
-  speaker: Yubo Dong
+  speakers: Yubo Dong
+  speakers_title: 'Senior Software Engineer, Funding Societies'
   title: 'API Gateway Evolution at Funding Societies '
   id: 'aUb015krDgs'
 - type: App - VOD
-  speaker: Antariksh Mahajan
+  speakers: Antariksh Mahajan
+  speakers_title: 'Associate Software Engineer, Open Government Products, GovTech'
   title: 'A Great Migration: AngularJS to React '
   id: 'qjgSx7s9DbI'
 - type: App - VOD
-  speaker: Liang Yuanruo
+  speakers: Liang Yuanruo
+  speakers_title: 'Engineering Manager, Open Government Products, GovTech'
   title: 'Securely Digitise Your Processes with FormSG Webhooks '
   id: 'GSGZ5iLSFtM'
 - type: Tech Culture - Preamble
-  speaker: Karen Kee
+  speakers: Karen Kee
+  speakers_title: 'Product Manager, Singapore Government Developer Portal, GovTech'
   title: Introducing the Tech Culture Track
   id: 'K7GCwj8sPGY'
 - type: Tech Culture - Talk
-  speaker: Mark Birch
+  speakers: Mark Birch
+  speakers_title: 'Principal Startup Advocate APJ, Amazon Web Services'
   title: 'Building Internal Developer Communities '
   id: '61tOBAVbs20'
 - type: Tech Culture - Talk
-  speaker: Irina Chiew
+  speakers: Irina Chiew
+  speakers_title: 'Head of Design, SEA, ThoughtWorks'
   title: 'The Agile Innovation Paradox '
   id: 'X6MnVW0npCg'
 - type: Tech Culture - Talk
-  speaker: 'Chia Hsiao Ming, Wei Junyu'
+  speakers: 'Chia Hsiao Ming, Wei Junyu'
+  speakers_title: |-
+    Director, Engineering Productivity, GovTech
+    Associate Software Engineer, GovTech
   title: Singapore Government Developer Portal
   id: 'UgQ1GVSM_N4'
 - type: Tech Culture - Talk
-  speaker: Ng Hock Keong
+  speakers: Ng Hock Keong
+  speakers_title: >-
+    Deputy Chief Executive (ICT & Digital Services), Central Provident Fund
+    Board
   title: 'The UX Journey of CPF Digital Service '
   id: 'rUSXyCKxMUM'
 - type: Tech Culture - Talk
-  speaker: 'Sean Jalleh, Barbara Natali-Sherman'
+  speakers: 'Sean Jalleh, Barbara Natali-Sherman'
+  speakers_title: 'Principal Designer, DesignMap| Director of Design, DesignMap'
   title: Evoling Role of Design
   id: 'OrUNzZa4gbs'
 - type: Tech Culture - Talk
-  speaker: Aiko Klostermann
+  speakers: Aiko Klostermann
+  speakers_title: 'Senior Software Engineer, ThoughtWorks'
   title: 'Artificial Intelligence? - More like Artificial Stupidity! '
   id: 'wjhLa36ASw8'
 - type: Tech Culture - Live Chat
-  speaker: 'Evangeline Chua, Ryan Ashneil'
+  speakers: 'Evangeline Chua, Ryan Ashneil'
+  speakers_title: 'Chief People Officer, GovTech| Associate Software Engineer, GovTech'
   title: Live Chat with Evangeline Chua and Ryan Ashneil
   id: 'w_cCDMJZkD0'
 - type: Tech Culture - VOD
-  speaker: Daren Ng
+  speakers: Daren Ng
+  speakers_title: 'UX Designer, GovTech'
   title: Singapore Government Design System
   id: 'bq_BE0y-JSM'
 - type: Tech Culture - VOD
-  speaker: Cameron Townshend
+  speakers: Cameron Townshend
+  speakers_title: 'Cameron Townshend, Solutions Architect, Sonatype'
   title: 'Open Source Software: Please Build Responsibly '
   id: 'y9K6bYPRImE'
 - type: Tech Culture - VOD
-  speaker: 'Chew Kia Hwee, Gloria Chua'
+  speakers: 'Chew Kia Hwee, Gloria Chua'
+  speakers_title: 'Senior UX Designer, GovTech| Associate UX Designer, GovTech'
   title: >-
     Designing for the 100%: Building an Inclusive and Accessible National
     Digital Identity 
   id: 'xNJQEPC1Ojw'
 - type: Tech Culture - VOD
-  speaker: Joseph Tan
+  speakers: Joseph Tan
+  speakers_title: >-
+    Assistant Director, Data Science and AI Division (Capability Development),
+    GovTech
   title: Data Transformation – A GovTech Story
   id: '7pkxJ03ZP1Y'
 - type: Tech Culture - VOD
-  speaker: JJ Asghar
+  speakers: JJ Asghar
+  speakers_title: 'Developer Advocate, IBM'
   title: 'Lessons Learned from Cultivating Open Source Projects and Communities '
   id: 'xpYwmubWbTY'
 - type: Tech Culture - VOD
-  speaker: Ong Lay Teen
+  speakers: Ong Lay Teen
+  speakers_title: 'Senior Systems Engineer, GovTech'
   title: Building an Assistive Technology Platform for the Smart Nation
   id: 'l2tHh1OHTCk'
 - type: Tech Culture - VOD
-  speaker: Kwa Jie Hao
+  speakers: Kwa Jie Hao
+  speakers_title: 'Associate Software Engineer, Open Government Products, GovTech'
   title: >-
     The Secret to Building Fast, Secure, and Cheap Websites for the Singapore
     Government 
   id: 'T92TBl6bEMk'
 - type: Tech Culture - VOD
-  speaker: 'Joel Kek, Samantha Wong, Christabel Neo'
+  speakers: 'Joel Kek, Samantha Wong, Christabel Neo'
+  speakers_title: |-
+    Software Engineer, GovTech
+    Software Engineer, GovTech
+    Software Engineer, GovTech
   title: 'Digital4Good: Inspiring Kids to Code '
   id: 'dL3HF5tsvpg'
 - type: Tech Culture - VOD
-  speaker: Lee Chen Tong
+  speakers: Lee Chen Tong
+  speakers_title: 'Senior Systems Analyst, Housing & Development Board'
   title: 'Participatory Design of Community Spaces using Virtual Reality '
   id: 'mmiMfYL-rNk'
 - type: Tech Culture - VOD
-  speaker: Dalson Tan
+  speakers: Dalson Tan
+  speakers_title: 'Associate Software Engineer, Technology Associate Programme, GovTech'
   title: 'The A11yphant in the Room '
   id: 'obxuDVMFIoM'
 - type: Tech Culture - VOD
-  speaker: Clement Ho
+  speakers: Clement Ho
+  speakers_title: 'Engineering Manager, MURAL'
   title: Raising the Bar in Hiring while Reducing Bias
   id: 'C7qmyCPZkI4'
 - type: Tech Culture - VOD
-  speaker: Nikhil Choudhary
+  speakers: Nikhil Choudhary
+  speakers_title: 'Software Engineer, Open Government Products, GovTech'
   title: >-
     You Won’t BELIEVE This HACK to Improve Your Technical Communication!
     WEIRD!!! 
   id: 'MOJ3wrDIbiA'
 - type: Tech Culture - VOD
-  speaker: Samantha Wong
+  speakers: Samantha Wong
+  speakers_title: 'Software Engineer, GovTech'
   title: 'How Much Testing Is Enough Testing '
   id: '-LDuWlIYoR8'
 - type: Tech Culture - VOD
-  speaker: 'Andrew Sng, Joy Ng'
+  speakers: 'Andrew Sng, Joy Ng'
+  speakers_title: 'Associate Software Engineer, GovTech| UX Designer, GovTech'
   title: GovTech Assisted Living Ecosystem
   id: 'FWEvtfBA4eM'
 - type: Tech Culture - VOD
-  speaker: Sarah Salim
+  speakers: Sarah Salim
+  speakers_title: 'Product Designer, Open Government Products, GovTech'
   title: How to be a Data-Aware Designer
   id: 'iPc7YXlp7Zo'
 - type: COVID-19 Tech -  Preamble
-  speaker: Chloe Yao
+  speakers: Chloe Yao
+  speakers_title: 'Lead Delivery Manager, SafeEntry, GovTech'
   title: Introducing the COVID-19 Tech Track
   id: 'sVCnZOatsSU'
 - type: COVID-19 Tech - Talk
-  speaker: Vernon Lee
+  speakers: Vernon Lee
+  speakers_title: 'Director, Communicable Diseases Division, Ministry of Health'
   title: 'Digital Solutions in the COVID-19 Response: The Singapore Experience '
   id: 'h-qz6KEteH0'
 - type: COVID-19 Tech - Talk
-  speaker: Joycelyn Chua
+  speakers: Joycelyn Chua
+  speakers_title: 'UX Designer, Government Digital Services, GovTech'
   title: 'Designing Responsibly in the Time of A Pandemic '
   id: '_E1wG-gDuUg'
 - type: COVID-19 Tech - Talk
-  speaker: 'Quek Yang Boon, Dominic Chan'
+  speakers: 'Quek Yang Boon, Dominic Chan'
+  speakers_title: 'Director, Sensors & IoT, GovTech| Director, Moments of Life, GovTech'
   title: 'The Design and Manufacturing Journey behind TraceTogether Tokens '
   id: 'bD9VwjXOTcE'
 - type: COVID-19 Tech - Talk
-  speaker: Jean Tan
+  speakers: Jean Tan
+  speakers_title: 'Software Engineer, GovTech'
   title: 'Sending Messages At-Scale with Postman.gov.sg '
   id: 'gZUjxYiSS_s'
 - type: COVID-19 Tech - Talk
-  speaker: Chong Jia Yi
+  speakers: Chong Jia Yi
+  speakers_title: 'Distinguished Engineer, GovTech'
   title: |
     Bridging the Cyber-Physical Worlds with Robotics and Smart Sensors
   id: 'KIqdqhSoG2c'
 - type: COVID-19 Tech - Live Chat
-  speaker: 'Jason Bay, Quek Yang Boon'
+  speakers: 'Jason Bay, Quek Yang Boon'
+  speakers_title: >-
+    Senior Director, Government Digital Services, GovTech| Director, Sensors &
+    IoT, GovTech
   title: Live Chat with Jason Bay and Quek Yang Boon
   id: 'W6KWeOGObjI'
 - type: COVID-19 Tech - Live Chat
-  speaker: Chong Jia Yi
+  speakers: Chong Jia Yi
+  speakers_title: 'Distinguished Engineer, GovTech'
   title: 'Experiences in building the DOSS Sensors and Robotics Stack '
   id: 'xewjqquMIR8'
