@@ -19,7 +19,7 @@ description: >
   {% assign video_url = "https://www.youtube.com/watch?v=" | append: video.id %}
   {% assign video_title = video.title %}
   {% assign video_speaker = video.speaker %}
-  {% assign video_image = "https://img.youtube.com/vi/video_id/hqdefault.jpg" | replace: "video_id", video.id %}
+  {% assign video_image = "https://img.youtube.com/vi/$video_id/hqdefault.jpg" | replace: "$video_id", video.id %}
   <div class="col is-6 is-flex">
     <div class="sgds-card">
       <div class="sgds-card-content">
@@ -39,6 +39,7 @@ description: >
           </figure>
         </div>
         <p>
+          <strong>Speakers</strong> <br>
           {{ video_speaker }}
         </p>
       </div>
@@ -50,7 +51,7 @@ description: >
           Watch video
         </a>
         {% comment %} Replace the additional link when ready {% endcomment %}
-        {% if video.additionalLink == nil %}
+        {% if video.additionalLink != nil %}
           <a
             href="{{ video_url }}"
             class="sgds-card-footer-item"
