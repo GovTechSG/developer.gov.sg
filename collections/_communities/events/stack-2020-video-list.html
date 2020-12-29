@@ -29,7 +29,7 @@
             </figure>
           </div>
           <p>
-            <strong>Speakers</strong> <br>
+            <strong>Speaker(s)</strong> <br>
             {% for speaker in speakers %}
                 {% assign speaker_index = forloop.index| minus: 1 %}
                 <strong>{{ speaker }}</strong>, {{speakers_title[speaker_index]}}<br><br>
