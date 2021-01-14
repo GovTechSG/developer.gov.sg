@@ -52,7 +52,7 @@ GovTech is offering a GCC Foundation Training. Upon completion trainees will ha
 
 •         Open-book using course materials
 
-**Pre-requites**
+**Pre-requisites**
 
 ·       Require Udemy account
 
