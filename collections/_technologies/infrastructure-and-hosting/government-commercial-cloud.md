@@ -58,6 +58,6 @@ GovTech is offering a GCC Foundation Training. Upon completion trainees will ha
 
 ·       Must be local company in Singapore
 
-**How to Sign up**
+### **How to Sign Up**
 
 Please register your interest at [https://go.gov.sg/gcctrainingreg](https://go.gov.sg/gcctrainingreg)
