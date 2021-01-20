@@ -1,5 +1,5 @@
 ---
-title: AccreditationAtSG
+title: Accreditation at SG
 layout: layout-page-sidenav
 description: Accreditation of products to build technology industry
 ---
@@ -18,6 +18,6 @@ As of September 2020, over 1000 projects opportunities worth over SGD630 million
 
 #### Accreditation Process
 
-![accreditation process](accreditation_process.jpg)
+![](accreditation_process.jpg)
 
 For more details on how to get your product accredited, please refer to [https://www.imda.gov.sg/programme-listing/accreditation-at-sgd](https://www.imda.gov.sg/programme-listing/accreditation-at-sgd)
