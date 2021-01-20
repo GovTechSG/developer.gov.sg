@@ -1,6 +1,7 @@
 ---
 title: Open Innovation Platform (OIP)
 layout: layout-page-sidenav
+description: Accelerating digital innovation
 ---
 Overview
 --------
