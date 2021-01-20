@@ -40,6 +40,14 @@
     - Overview
     - IM8
     - Digital Service Standards
-    
+
 - name: Technology Acronyms
   description: Search and understand common technology-related acronyms and terms
+
+- name: Procurement
+  description: Guidelines and processes
+  items:
+    - Overview
+    - Accreditation@SG
+    - GeBiz
+    - Open Innovation Platform (OIP)
