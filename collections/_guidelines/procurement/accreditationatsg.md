@@ -1,5 +1,5 @@
 ---
-title: Accreditation@SG
+title: AccreditationAtSG
 layout: layout-page-sidenav
 description: Accreditation of products to build technology industry
 ---
