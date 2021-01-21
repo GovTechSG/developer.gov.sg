@@ -18,6 +18,8 @@ As of September 2020, over 1000 projects opportunities worth over SGD630 million
 
 #### Accreditation Process
 
-![](accreditation_process.jpg)
+<figure style="text-align: center">
+  <img src="/assets/img/accreditation_process.jpg" alt="Accreditation process workflow" />
+</figure>
 
 For more details on how to get your product accredited, please refer to [https://www.imda.gov.sg/programme-listing/accreditation-at-sgd](https://www.imda.gov.sg/programme-listing/accreditation-at-sgd)
