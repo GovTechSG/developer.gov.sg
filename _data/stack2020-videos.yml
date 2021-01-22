@@ -215,9 +215,7 @@
   id: 'chg35IciuNs'
 - type: App - VOD
   speakers: 'Lau Lee Hong, Daniel Tan'
-  speakers_title: |-
-    Associate Embedded Software Engineer, GovTech
-    Student, Stanford University
+  speakers_title: Associate Embedded Software Engineer, GovTech | Student, Stanford University
   title: 'Designing the SG Tech Stack (Sensor Node) using mbedOS '
   id: 'FwExlP-L1Qo'
 - type: App - VOD
