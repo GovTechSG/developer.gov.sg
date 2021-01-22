@@ -13,6 +13,7 @@
     <div class="col is-6 is-flex">
       <div class="sgds-card">
         <div class="sgds-card-content">
+          {% if video.id !=nil %}
           <h4>
             <a href="{{ video_url }}">
               {{ video_title }}
@@ -28,6 +29,11 @@
               </a>
             </figure>
           </div>
+          {% else %}
+          <h4>
+            {{ video_title }}
+          </h4>
+          {% endif  %}
           <p>
             <strong>Speaker(s)</strong> <br>
             {% for speaker in speakers %}
@@ -37,16 +43,17 @@
           </p>
         </div>
         <div class="sgds-card-footer">
+          {% if video.id !=nil %}
           <a
             href="{{ video_url }}"
             class="sgds-card-footer-item"
           >
             Watch video
           </a>
-          {% comment %} Replace the additional link when ready {% endcomment %}
-          {% if video.additionalLink != nil %}
+          {% endif %}
+          {% if video.additional_link != nil %}
             <a
-              href="{{ video_url }}"
+              href="{{ '/assets/files/' | append: video.additional_link }}"
               class="sgds-card-footer-item"
             >
             View Slides
