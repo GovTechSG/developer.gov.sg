@@ -34,6 +34,14 @@
     - Overview
     - Team Culture
 
+- name: Procurement
+  description: Guidelines and processes
+  items:
+    - Overview
+    - Accreditation at SG
+    - GeBIZ
+    - Open Innovation Platform
+
 - name: Standards and Best Practices
   description: Conventions to help deliver a better digital service
   items:
@@ -43,11 +51,3 @@
 
 - name: Technology Acronyms
   description: Search and understand common technology-related acronyms and terms
-
-- name: Procurement
-  description: Guidelines and processes
-  items:
-    - Overview
-    - Accreditation at SG
-    - GeBIZ
-    - Open Innovation Platform
