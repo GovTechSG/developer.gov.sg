@@ -9,7 +9,7 @@ Overview
 
 GeBIZ is the Singapore Government's one-stop e-procurement portal. The public sector's ICT procurement opportunities via invitations for quotations (ITQs) and tenders (ITTs) are posted on GeBIZ. Suppliers can search for government procurement opportunities, download tender documents, and submit their bids online. GeBIZ allows any supplier to access public sector business opportunities anywhere and anytime with just an Internet connection.
 
-**The Government publishes agencies annual procurement opportunities via GeBiz every year:**
+**The Government publishes agencies annual procurement opportunities via GeBIZ every year:**
 
 *   For an introduction to GeBIZ, please click [here](https://www.gebiz.gov.sg/).
 
@@ -52,4 +52,4 @@ For more procurement related queries, please contact  [PRD@tech.gov.sg](mailto
 
 *   A series of webinars centred on the theme of Re-Engineering the Government OS was organised in conjunction with the online campaign.
 
-*   For news on ICT procurement and digitalisation roadmap, please click [here.](https://www.tech.gov.sg/media/events/ib2020)
+For news on ICT procurement and digitalisation roadmap, please click [here.](https://www.tech.gov.sg/media/events/ib2020)
