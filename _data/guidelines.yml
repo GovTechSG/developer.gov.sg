@@ -10,9 +10,9 @@
   items:
     - Overview
     - Agile Development
-    - UX Design
     - DevOps
     - Engineering Practices
+    - UX Design
 
 - name: Measuring Success
   description: Measure fulfilment of project objectives and act on them
@@ -24,8 +24,8 @@
   description: Leverage existing technologies for greater velocity and reliability
   items:
     - Overview
-    - Open-source Software
     - Managed Services
+    - Open-source Software
     - Understand the Broader Environment
 
 - name: Building the Right Team
@@ -46,8 +46,8 @@
   description: Conventions to help deliver a better digital service
   items:
     - Overview
-    - IM8
     - Digital Service Standards
+    - IM8
 
 - name: Technology Acronyms
   description: Search and understand common technology-related acronyms and terms

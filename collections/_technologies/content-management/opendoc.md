@@ -2,7 +2,10 @@
 title: OpenDoc
 layout: layout-page-sidenav
 category: Documentation
-description: A simple and easy way to make documents easily searchable and available to the public
+description: >
+  OpenDoc is an online document viewer.
+  It provides templates for websites, hosting and is compliant 
+  to applicable clauses in Instruction Manual 8 (IM8), Design Service Standard (DSS) and Usability Checklist (UC).
 ---
 
 ## Overview

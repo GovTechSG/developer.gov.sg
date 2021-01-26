@@ -3,7 +3,7 @@ title: Apex
 layout: layout-page-sidenav
 category: Data and APIs
 redirect_from: /singapore-government-tech-stack/communications/apex
-description: Centrally manage and monitor the security of all the APIs used across agencies
+description: Apex is a self-service API platform that acts as a centralised and secure API gateway for the Government.
 ---
 
 ## Overview

@@ -1,0 +1,25 @@
+<div class="row is-multiline open-source">
+  {% assign page_collection = page.collection %}
+  {% assign sub_collection = page.id | split: "/" | shift | shift | first %}
+  {% comment %} 
+    if page is at /guidelines/project-inception/,
+    then collection = guidelines and sub-collection is project-inception 
+  {% endcomment %}
+
+  {% assign full_collection = site[page_collection] %}
+  {% for document in full_collection %}
+    {% assign document_sub_collection = document.id | split: "/" | shift | shift | first %}
+    {% if document_sub_collection == sub_collection and page.title != document.title %}
+    <div class="col is-6-desktop is-12-tablet">
+      <div class="sgds-card">
+        <div class="sgds-card-content">
+          <h4><a href="{{ document.url }}">{{ document.title }}</a></h4>
+          <p>
+            {{ document.description | markdownify }}
+          </p>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>

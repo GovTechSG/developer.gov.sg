@@ -1,7 +1,7 @@
 ---
 title: DevOps
 layout: layout-page-sidenav
-description: Constantly improve the reliability and quality of your digital service through automation and continuous delivery
+description: Maintain a culture with an emphasis on automation of software deployment, metric-based feedback and monitoring and high levels of communications.
 ---
 
 ## What is DevOps?

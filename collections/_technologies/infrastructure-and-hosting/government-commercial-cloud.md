@@ -3,7 +3,9 @@ title: Government Commercial Cloud
 layout: layout-page-sidenav
 category: Hosting
 redirect_from: /singapore-government-tech-stack/government-commercial-cloud
-description: Designed to manage all the resources hosted on the commercial service providers, in the likes of Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform
+description: >
+  The Government Commercial Cloud Service brings the modern innovations and 
+  capabilities of commercial cloud computing platforms to Government systems.
 ---
 
 ## Overview
@@ -18,48 +20,43 @@ Government agencies can tap on commercial cloud software to incorporate advanced
 
 To find out more about the GCC, contact [info@tech.gov.sg](mailto:info@tech.gov.sg).
 
-**GCC Foundation Training**
----------------------------
+## **GCC Foundation Training**
 
 GovTech is offering a GCC Foundation Training. Upon completion trainees will have reliably demonstrated the ability to select and use the appropriate GCC Services (GCCS) to host systems on GCC.
 
 **Learning Objectives**
 
-*   Purpose of each GCCS
+- Purpose of each GCCS
 
-*   Subscribing and administering GCCS
+- Subscribing and administering GCCS
 
-*   Navigating the Cloud Management Portal (CMP)
+- Navigating the Cloud Management Portal (CMP)
 
-*   GCC hosting framework
+- GCC hosting framework
 
-*   Onboarding, Setup and Operating Systems  
-
+- Onboarding, Setup and Operating Systems
 
 **Training Approach**
 
-*   eLearning on Udemy
-
+- eLearning on Udemy
 
 **Assessment**
 
-*   Online certification test
+- Online certification test
 
-*   60 multiple choice questions
+- 60 multiple choice questions
 
-*   90 minutes
+- 90 minutes
 
-*   Must score 70% to pass
+- Must score 70% to pass
 
-*   Open-book using course materials
-
+- Open-book using course materials
 
 **Pre-requisites**
 
-*   Require Udemy account
+- Require Udemy account
 
-*   Must be local company in Singapore
-
+- Must be local company in Singapore
 
 ### **How to Sign Up**
 
