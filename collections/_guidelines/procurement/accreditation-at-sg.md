@@ -10,11 +10,11 @@ The Accreditation@SG Digital aims to build our technology industry through accel
 
 #### What We Do
 
-Accreditation@SGD accredits promising and innovative Singapore-based high-growth ICM product companies to establish credentials and position them as qualified contenders to government and large enterprise buyers. It also provides potential end users with the assurance of the accredited companies’ product core functionalities and ability to deliver.
+Promising and innovative Singapore-based high-growth ICM product companies to establish credentials and position them as qualified contenders to government and large enterprise buyers. It also provides potential end users with the assurance of the accredited companies’ product core functionalities and ability to deliver.
 
 #### Continuing Outcomes
 
-As of September 2020, over 1000 projects opportunities worth over SGD630 million have been created for accredited companies. Government agencies can procure these accredited solutions from this panel of companies for their ICT initiatives.
+Government agencies can procure these accredited solutions from this panel of companies for their ICT initiatives.
 
 #### Accreditation Process
 
@@ -22,4 +22,4 @@ As of September 2020, over 1000 projects opportunities worth over SGD630 million
   <img src="/assets/img/accreditation_process.jpg" alt="Accreditation process workflow" />
 </figure>
 
-For more details on how to get your product accredited, please refer to [https://www.imda.gov.sg/programme-listing/accreditation-at-sgd](https://www.imda.gov.sg/programme-listing/accreditation-at-sgd)
+For more details on how to get your product accredited, please click [here.](https://www.imda.gov.sg/programme-listing/accreditation-at-sgd)

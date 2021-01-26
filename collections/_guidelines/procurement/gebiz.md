@@ -7,7 +7,7 @@ description: Procurement opportunities for public and private sectors.
 Overview
 --------
 
-GeBIZ is the Singapore Government's one-stop e-procurement portal. All of public sector's ICT procurement opportunities via invitations for quotations (ITQs) and tenders (ITTs) are posted on GeBIZ. Suppliers can search for government procurement opportunities, download tender documents, and submit their bids online. GeBIZ allows any supplier to access public sector business opportunities anywhere and anytime with just an Internet connection.
+GeBIZ is the Singapore Government's one-stop e-procurement portal. The public sector's ICT procurement opportunities via invitations for quotations (ITQs) and tenders (ITTs) are posted on GeBIZ. Suppliers can search for government procurement opportunities, download tender documents, and submit their bids online. GeBIZ allows any supplier to access public sector business opportunities anywhere and anytime with just an Internet connection.
 
 **The Government publishes agencies annual procurement opportunities via GeBiz every year:**
 
@@ -33,3 +33,23 @@ GeBIZ is the Singapore Government's one-stop e-procurement portal. All of public
 
 
 For more procurement related queries, please contact  [PRD@tech.gov.sg](mailto:PRD@tech.gov.sg)
+
+**Smart Nation and Digital Government Industry Briefing 2020:**
+
+*   Singapore will be spending and estimated S$3.5 billion on infocomm technology (ICT) projects to accelerate digitalisation and support businesses recovering from the impact of COVID-19.
+
+*   There are five key areas of projected spendings:
+
+    *   Development of new tech tools to respond to COVID-19;
+
+    *   Development of citizen- and business-centric digital services;
+
+    *   Development of ICT systems on cloud;
+
+    *   Modernisation of government ICT infrastructure; and
+
+    *   Use of data analytics, artificial intelligence (AI) and sensors within the public sector
+
+*   A series of webinars centred on the theme of Re-Engineering the Government OS was organised in conjunction with the online campaign.
+
+*   For news on ICT procurement and digitalisation roadmap, please click [here.](https://www.tech.gov.sg/media/events/ib2020)

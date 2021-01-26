@@ -15,6 +15,4 @@ The OIP by IMDA seeks to accelerate digital innovation by matching real business
 3.  National Innovation Challenge (NEW): Addresses nationwide challenges to allow Singapore to emerge stronger post-Covid.
 
 
-To date, there have been 171 challenges hosted on the OIP and have attracted 9900 solvers in our community and has facilitated 51 Proof of Concepts / Prototypes. Out of which, there were 15 government agencies have called 32 challenges on OIP that resulted in 10 proof of concepts.
-
-For more detail on OIP and current challenges, please refer to [https://www.openinnovation.sg/about](https://www.openinnovation.sg/about)
+For more detail on OIP and current challenges, please click [here.](https://www.openinnovation.sg/about)
