@@ -2,7 +2,7 @@
 title: Content Website Platform
 layout: layout-page-sidenav
 category: Content management
-description: A common secured environment based on a robust and controlled platform which provides a suite of standardised software for hosting content-based websites
+description: Content Website Platform provides a suite of standardised software for hosting content-based websites.
 ---
 
 ## Overview

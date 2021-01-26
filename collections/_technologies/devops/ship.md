@@ -3,7 +3,9 @@ title: SHIP
 layout: layout-page-sidenav
 category: Devops
 redirect_from: /singapore-government-tech-stack/toolchain/ship
-description: Secure Hybrid Integration Pipeline (SHIP) provides managed services for development teams such as task trackers, source code repositories and CICD tooling that allow applications to be built faster and with more confidence
+description: >
+  SHIP is a continuous integration and continuous deployment
+  (CI/CD) platform that automates the delivery of applications and simplifies policy clearance.
 ---
 
 ## Overview

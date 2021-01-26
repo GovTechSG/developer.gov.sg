@@ -18,7 +18,7 @@
         </div>
       </div>
     </div>
-    <div class="row">
+    <!-- <div class="row">
       <div class="col suggest-new-container">
         <a class="sgds-button is-primary" v-on:click="showContributionForm = !showContributionForm">
           Suggest a new acronym
@@ -32,7 +32,7 @@
           <ContributionForm type="add" @close="showContributionForm = false" />
         </div>
       </div>
-    </div>
+    </div> -->
     <div
       v-for="term of filteredTerms"
       v-cloak

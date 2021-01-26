@@ -3,8 +3,9 @@ title: Sensor Data Exchange
 layout: layout-page-sidenav
 category: Sensors and IOT
 description: >
-  Digital Operations Smart Services (DOSS) is an operations management platform for
-  static and mobile sensor platforms, including robotics.
+  Sensor Data Exchange is a centralised platform that distributes sensor data 
+  across Whole-of-Government. It provides seamless and secure data sharing and 
+  management, and encompasses public, private, and industrial internet-of-things.
 ---
 
 ## Sensor Data Exchange (SDX)

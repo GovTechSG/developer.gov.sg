@@ -2,7 +2,7 @@
 title: OpenCerts
 layout: layout-page-sidenav
 category: Blockchain
-description: OpenCerts lets you verify certificates issued to individuals by institutions
+description: OpenCerts is an open-source platform which education institutions can adopt for issuing certificates.
 ---
 
 ## Overview

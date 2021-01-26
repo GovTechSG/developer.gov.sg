@@ -92,7 +92,7 @@
     Singapore (IRAS)| Principal UX Specialist, Inland Revenue Authority of
     Singapore (IRAS)
   title: 'Modernising Tax Administration: IRAS’ Cloud Journey '
-  id: 'fTsTd2Cu674'
+  additional_link: IRAS - Stack 2020 - Presentation (Dec 2020) (Portal).pdf
 - type: Cloud - Live Chat
   speakers: 'Hunter Nield, Tang Bing Wan'
   speakers_title: 'Distinguished Engineer, GovTech| Principal Infrastructure Architect, GovTech'
@@ -215,9 +215,7 @@
   id: 'chg35IciuNs'
 - type: App - VOD
   speakers: 'Lau Lee Hong, Daniel Tan'
-  speakers_title: |-
-    Associate Embedded Software Engineer, GovTech
-    Student, Stanford University
+  speakers_title: Associate Embedded Software Engineer, GovTech | Student, Stanford University
   title: 'Designing the SG Tech Stack (Sensor Node) using mbedOS '
   id: 'FwExlP-L1Qo'
 - type: App - VOD
@@ -245,6 +243,7 @@
   speakers_title: 'Smart Nation Fellow, GovTech'
   title: 'VICA – GovTech’s Next-Generation Chatbot Platform '
   id: '2avfFKw7s-8'
+  additional_link: STACK 2020 - Bertrand Lee.pdf
 - type: App - VOD
   speakers: Curtis Tan
   speakers_title: 'Associate Software Engineer, GovTech'
@@ -389,11 +388,13 @@
   speakers_title: 'Senior Systems Analyst, Housing & Development Board'
   title: 'Participatory Design of Community Spaces using Virtual Reality '
   id: 'mmiMfYL-rNk'
+  additional_link: LeeChenTong_ParticipatoryDesignOfCommunitySpacesUsingVirtualReality_Slides.pdf
 - type: Tech Culture - VOD
   speakers: Dalson Tan
   speakers_title: 'Associate Software Engineer, Technology Associate Programme, GovTech'
   title: 'The A11yphant in the Room '
   id: 'obxuDVMFIoM'
+  additional_link: STACK 2020 - Dalson Tan.pdf
 - type: Tech Culture - VOD
   speakers: Clement Ho
   speakers_title: 'Engineering Manager, MURAL'
@@ -411,6 +412,7 @@
   speakers_title: 'Software Engineer, GovTech'
   title: 'How Much Testing Is Enough Testing '
   id: '-LDuWlIYoR8'
+  additional_link: STACK 2020 - Samantha Wong.pdf
 - type: Tech Culture - VOD
   speakers: 'Andrew Sng, Joy Ng'
   speakers_title: 'Associate Software Engineer, GovTech| UX Designer, GovTech'
@@ -436,6 +438,7 @@
   speakers_title: 'UX Designer, Government Digital Services, GovTech'
   title: 'Designing Responsibly in the Time of A Pandemic '
   id: '_E1wG-gDuUg'
+  additional_link: STACK 2020 - Joycelyn Chua.pdf
 - type: COVID-19 Tech - Talk
   speakers: 'Quek Yang Boon, Dominic Chan'
   speakers_title: 'Director, Sensors & IoT, GovTech| Director, Moments of Life, GovTech'

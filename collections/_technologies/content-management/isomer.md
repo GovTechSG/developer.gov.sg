@@ -2,7 +2,10 @@
 title: Isomer
 layout: layout-page-sidenav
 category: Content management
-description: Provides template for website with hosting and is compliant to applicable clauses in the Instruction Manual 8 and Digital Service Standards
+description: >
+  Isomer is an informational website generator that provides templates 
+  for websites with hosting and is compliant to applicable clauses in 
+  Instruction Manual 8 (IM8), Design Service Standard (DSS) and Usability Checklist (UC).
 ---
 
 ## Overview

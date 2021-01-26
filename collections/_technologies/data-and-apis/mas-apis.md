@@ -2,7 +2,8 @@
 title: MAS API
 layout: layout-page-sidenav
 category: Data and APIs
-description: Enables you to extract the relevant datasets on the MAS website for your applications and systems in a seamless manner
+description: >
+  The Monetary Authority of Singapore provides APIs for developers to access relevant data from MAS.
 ---
 
 ## Overview

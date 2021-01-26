@@ -2,7 +2,7 @@
 title: IRAS API
 layout: layout-page-sidenav
 category: Data and APIs
-description: Combines industry expertise with innovative technology to deliver digital transformation and to optimise tax-related services and transactions
+description: The IRAS API Marketplace combines industry expertise with innovative technology to create and optimise tax-related services.
 ---
 
 ## Overview
