@@ -1,7 +1,8 @@
 ---
 title: Accreditation at SG
 layout: layout-page-sidenav
-description: Accreditation of products to build technology industry
+description: Accreditation@SG is a programme to accelerate the growth of Singapore-based innovative technology product companies through winning contracts with government agencies and large enterprises, as well as facilitating new growth capital into the companies.
+
 ---
 Overview
 --------
