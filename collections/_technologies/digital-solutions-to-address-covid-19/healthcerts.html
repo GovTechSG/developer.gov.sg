@@ -20,71 +20,184 @@ provide global solutions.
 <p>
   We published <a href="https://healthcerts.gov.sg">HealthCerts</a> - a set of
   digital open standards and schema for issuing digital COVID-19 test results/
-  vaccination certificates, in line with international standards and the Singapore
-  Government's requirements. This will allow the global community to collectively
-  improve it so that governments and public health authorities may adapt it. Besides
-  the standards and schema, it is useful to understand in greater detail how the
-  solution works and some of the limitations to be taken note of.
+  vaccination certificates, in line with international standards and the Singapore Government's requirements.
   </p>
   <p>
-    Together with HealthCerts,<a href="https://notarise.gov.sg"> Notarise</a> was also developed to digitally notarise certificates
-    and <a href="https://verify.gov.sg">Verify</a> to enable authorities to confirm certificates' legitimacy as shown
-    in Figure 1 below.
+    <strong>HealthCerts is designed to support an open ecosystem and
+      public-private partnerships. Singapore welcomes partners to further the
+      work in this space, including further enhancing interoperability, privacy,
+      and verifiability of digital certificates. Please contact us at info@tech.gov.sg should you have further queries. </strong>
+      <figure style="text-align: center">
+        <a href="https://www.youtube.com/watch?v=nRHgZ71gPmY">
+        <img alt="About HealthCerts" src="https://img.youtube.com/vi/https://www.youtube.com/watch?v=nRHgZ71gPmY/hqdefault.jpg">
+      </a>
+      <section class="sgds-section">
+        <div class="sgds-container">
+          <div class="content has-default-header-styles">
+            <div class="row">
+              <div class="col is-5-desktop is-12-tablet">
+                <div class="sgds-card">
+                  <div class="sgds-card-content">
+                    <h3>
+                      About Health Certs
+                    </h3>
+                    <ul>
+                      <li>
+                        <a href="#what-is-healthcert">What is HealthCerts?</a>
+                      </li>
+                      <li>
+                        <a href="#open-attestation-framework">Open Attestation Framework</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col is-7-desktop is-12-tablet">
+                <div class="sgds-card">
+                  <div class="sgds-card-content">
+                    <h3>
+                      Integration and Interoperability
+                    </h3>
+                    <ul>
+                      <li>
+                        <a href="#technical-resources">Technical resources to issue, verify or store digital certificates</a> <br>
+                      </li>
+                      <li>
+                        <a href="#healthcert-partners">HealthCerts partners</a> <br>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+     <br>
+     For more information, visit
+     <a href="https://healthcerts.gov.sg">https://healthcerts.gov.sg</a>
+     and
+     <a href="https://openattestation.com">https://openattestation.com</a>.
+     <h2>About HealthCerts</h2>
+  <h3 id="what-is-healthcert">What is Health Certs?</h3>
+      <p>
+        HealthCerts is a set of digital open standards and schema for issuing
+        digital COVID-19 test results/ vaccination certificates, in line with
+        international standards and the Singapore Government's requirements.
+        This will allow the global community to collectively improve it so that
+        governments and public health authorities may adapt it.
+      </p>
+      <p>
+        Developed by the Government Technology Agency (GovTech) in collaboration
+        with the Ministry of Health (MOH), the use of HealthCerts to enable an interoperable, verifiable, and tamper-proof solution which will smoothen and expedite check-in processing and customs clearance at foreign and local immigration checkpoints.
+        </p>
+        <figure style="text-align: center">
+          <img
+            src="assets/img/verifying-digital-certificates.png"
+            alt="Using HealthCerts,Notaise and Verify"/>
+        <p>
+          <strong>HealthCerts</strong> is interoperable with private sector
+          solutions such as the Affinidi Unifier app. These certificates are also
+          tamper-proof (data stored is immutable) and secure, protected against
+          unauthorised access. The digital certificate stores identity details
+          (name, national identity number, DOB etc.) and test details (type, status, date, medical institution details).
+        </p>
+        <p>
+          For added assurance, digital certificates may be digitally notarized by
+          the Government through <strong>Notarise</strong> to ease downstream verification. <strong>Verify</strong>
+          provides an easy, reliable way to ensures digital certificates have not
+          been tampered with and issued/ notarised by a recognised entity.
+        </p>
+    <h3 id="open-attestation-framework">Open Attestation Framework</h3>
+        <p>
+          HealthCerts is powered by <a href="https://www.openattestation.com/">OpenAttestation</a>,
+          an open-source framework using blockchain to issue cryptographically trustworthy
+          documents which can be verified independently without the need for proprietary
+          software equipment. OpenAttestation is the base framework behind
+          <strong>HealthCerts</strong>, <a href="https://www.developer.tech.gov.sg/technologies/blockchain/opencerts">OpenCerts</a>,
+          and <a href="https://www.tradetrust.io/">TradeTrust</a>.
+        </p>
+        <p>
+        OpenAttestation is an open-source framework for verifiable document and
+        transferable records. For more information, you may visit <a href="https://www.openattestation.com/docs/getting-started">
+          https://www.openattestation.com/docs/getting-started</a>
+          <figure style="text-align: center">
+            <a href="https://www.youtube.com/watch?v=PJxa8gFUI6k">
+            <img alt="About OpenCerts" src="https://img.youtube.com/vi/https://www.youtube.com/watch?v=PJxa8gFUI6k/hqdefault.jpg">
+          </a>
+<h2>Integration and Interoperability</h2>
+    <h3 id="technical-resources">Technical resources to issue, verify or store digital certificates</h3>
+    <h4> Issue a Health Certificate</h4>
+    <p>
+       The HealthCerts schema has been published <a href="https://www.healthcerts.gov.sg/schema/">here</a>. All digital pre-departure
+       test results issued in Singapore shall comprise of the data elements defined
+       in the schema. During presentation, these are the minimum data types that need
+       to be displayed.
     </p>
-    <figure style="text-align: center">
-      <img
-        src="/assets/img/usage-of-healthcerts.png"
-        alt="Confirming digital certificate legitmacy process"
-      />
-      <figcaption>Figure 1. Use of HealthCerts, Notarise and Verify</figcaption>
-    </figure>
-<h3>Digital Vaccine-Certificates in Singapore</h3>
-<p>
-  The Government Technology Agency(GovTech), in collaboration with the Singapore
-  Health Ministry have developed a system for issuing, authenticating and verifying
-  digital certificates shown in Figure 2 below. It ensures certificates issues are
-  tamper-proof, secure and comply with international standards and the Singapore
-  Government's requirements.
-  <figure style="text-align: center">
-    <img
-      src="/assets/img/verifying-digital-certificates.png"
-      alt="HealthCerts, Notarise and Verify"
-    />
-    <figcaption>Figure 2. System for issuing, authenticating and verifying digital
-    certificates</figcaption>
-  </figure>
-<h3>How It Works</h3>
-<p>
-  HealthCerts is a set of digital open standards and schema for issuing,
-  authenticating and verifying digital COVID-19 test results/vaccination certificates.
-  HealthCerts are issued in line with international standards
-  and the Singapore Government's requirements. It is interoperable with private
-  sector solutions. These certificates are also tamper-proof(data stored is immutable)
-  and secure, protected against unauthorised access.
-  </p>
-  <p>
-    The digital certificate stores identity details (name, national identity numnber, DOB etc.)
-    and test details (type, status, date, medical institution details). The QR
-    Code will be sent via email or presented under the SingPass Mobile app as shown
-    in Figure 3 below.
+    <ol>
+  <li>
+    <p>
+      Data fields as defined in&nbsp;<a
+        href="https://schemata.openattestation.com/">schema</a>
     </p>
+  </li>
+  <li>
+    <p>QR code which shall contain the following components</p>
+    <ul>
+      <li><p>A link to fetch the HealthCert</p></li>
+      <li><p>Decryption key to decrypt HealthCert payload</p></li>
+      <li><p>URL to perform verification of HealthCert</p></li>
+      <li>
+        <p>
+          Encryption shall be based performed using<a href="https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts">oa-encrypt</a>
+        </p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>
+      QR code shall be readable by any standard QR code reader (non-proprietary
+      formatting)
+    </p>
+  </li>
+</ol>
+<p>
+  This requirement for shall apply to the various modes of certificate delivery,
+  which could include sharing via
+</p>
+<ul>
+  <li>
+    <p>HealthCerts document or email which contains the memo and QR code</p>
+  </li>
+  <li>
+    <p>
+      Mobile application which renders the HealthCerts document as a
+      decentralised document.
+    </p>
+  </li>
+</ul>
+<p>
+  The purpose of the decentralised document renderer is to allow OpenAttestation
+  (OA) document issuers to style their documents without code change to the different
+  implementations of the document viewer. It does so by embedding the website specified
+  by the document issuers as an iframe or webview (for mobile apps) and sending the content
+  of the OA document into the iframe. More details can be found <a href="https://github.com/Open-Attestation/adr/blob/master/decentralised_rendering.md">here</a>.
+</p>
+<h3 id="healthcert-partners">HealthCerts partners</h3>
+<h4> List of HealthCerts Providers</h4>
+<p>
+  Providers below provide issuance service to clinics and labs such as Innovative
+  Diagnostics, Gleneagles Hospital and Parkway Shenton Medical Group in Singapore
+  and globally. <strong>We welcome private sector entities to sign up as partners to issue
+  digital certificates compliant with the HealthCert schema by contacting us at</strong>
+  <a href="mailto:info@tech.gov.sg">info@tech.gov.sg</a>
+</p>
     <figure style="text-align: center">
       <img
         src="/assets/img/HC on SingPass app.png"
-        alt="HealthCerts screenshot on SingPass mobile app"
-      />
+        alt="HealthCerts screenshot on SingPass mobile app"/>
       <figcaption>Figure 3. HealthCerts presented on SingPass Mobile app</figcaption>
     </figure>
-  <p>
-    HealthCerts is powered by <a href="https://www.openattestation.com/">OpenAttestation</a>,
-    an open-source framework using blockchain to issue cryptographically trustworthy
-    documents which can be verified independently without the need for proprietary
-    software equipment.
-    <p>
-  For added assurance, Digital Certificates may be digitally notarized by the
-  Government through Notarise to ease downstream verification
-  by ensuring:
-</p>
 <ul>
   <li>
     <p>
@@ -152,7 +265,7 @@ provide global solutions.
     <a href="https://healthcerts.gov.sg">https://healthcerts.gov.sg</a>
     and
     <a href="https://openattestation.com">https://openattestation.com</a>.
-  </p>
+
 
   <section class="sgds-section">
     <div class="sgds-container">
