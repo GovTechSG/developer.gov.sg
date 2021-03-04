@@ -36,7 +36,7 @@ provide global solutions.
         <div class="sgds-container">
           <div class="content has-default-header-styles">
             <div class="row">
-              <div class="col is-7-desktop is-12-tablet">
+              <div class="col is-7-desktop is-12-tablet is-flex">
                 <div class="sgds-card">
                   <div class="sgds-card-content">
                     <h3>
@@ -53,7 +53,7 @@ provide global solutions.
                   </div>
                 </div>
               </div>
-              <div class="col is-7-desktop is-12-tablet">
+              <div class="col is-7-desktop is-12-tablet is-flex">
                 <div class="sgds-card">
                   <div class="sgds-card-content">
                     <h3>
@@ -76,33 +76,36 @@ provide global solutions.
       </section>
      <br>
      <p>More information can be found here:</p>
- <ul>
-   <li>
-     <p>
-       <a href="https://healthcerts.gov.sg">https://healthcerts.gov.sg</a>
-     </p>
-   </li>
-   <li>
-     <p>
-       <a href="https://openattestation.com">https://openattestation.com</a>
-     </p>
-   </li>
-   <li>
-     <p>
-       <a href="https://blog.gds-gov.tech/healthcerts-part-1-bf560b8fd03">Medium Blog about HealthCerts - Part 1</a>
-     </p>
-   </li>
-   <li>
-     <p>
-       <a href="https://www.youtube.com/watch?v=nRHgZ71gPmY">Video about HealthCerts</a>
-     </p>
-   </li>
-   <li>
-     <p>
-       <a href="https://www.youtube.com/watch?v=PJxa8gFUI6k">Video about OpenCerts</a>
-     </p>
-   </li>
- </ul>
+     <ul>
+       <li>
+         <p>
+           <a href="https://blog.gds-gov.tech/healthcerts-part-1-bf560b8fd03">Medium Blog about HealthCerts - Part 1</a>
+         </p>
+       </li>
+     </ul>
+     <ul>
+       <li>
+         <p>
+           <a href="https://healthcerts.gov.sg">About HealthCerts</a>
+         </p>
+       </li>
+       <li>
+         <p>
+           <a
+             href="https://www.youtube.com/watch?v=nRHgZ71gPmY">Video about HealthCerts</a>
+         </p>
+       </li>
+       <li>
+         <p>
+           <a href="https://openattestation.com">About Open Attestation</a>
+         </p>
+       </li>
+       <li>
+         <p>
+           <a href="https://go.gov.sg/healthcertscollab">Collaborate on HealthCerts</a>
+         </p>
+       </li>
+     </ul>
      <h2>About HealthCerts</h2>
   <h3 id="what-is-healthcert">What is HealthCerts?</h3>
       <p>
@@ -134,22 +137,6 @@ provide global solutions.
           provides an easy, reliable way to ensures digital certificates have not
           been tampered with and issued/ notarised by a recognised entity.
         </p>
-    <h3 id="open-attestation-framework">Open Attestation Framework</h3>
-        <p>
-          HealthCerts is powered by <a href="https://www.openattestation.com/">OpenAttestation</a>,
-          an open-source framework using blockchain to issue cryptographically trustworthy
-          documents which can be verified independently without the need for proprietary
-          software equipment. OpenAttestation is the base framework behind
-          <strong>HealthCerts</strong>, <a href="https://www.developer.tech.gov.sg/technologies/blockchain/opencerts">OpenCerts</a>,
-          and <a href="https://www.tradetrust.io/">TradeTrust</a>.
-        </p>
-        <p>
-        OpenAttestation is an open-source framework for verifiable document and
-        transferable records. For more information, you may visit <a href="https://www.openattestation.com/docs/getting-started">
-          https://www.openattestation.com/docs/getting-started</a>
-            <a href="https://www.youtube.com/watch?v=PJxa8gFUI6k">
-            <img alt="About OpenCerts" src="https://img.youtube.com/vi/PJxa8gFUI6k/hqdefault.jpg">
-          </a>
 <h2>Integration and Interoperability</h2>
     <h3 id="technical-resources">Technical resources to issue, verify or store digital certificates</h3>
     <h4> Issue a Health Certificate</h4>
@@ -212,22 +199,7 @@ provide global solutions.
   by the document issuers as an iframe or webview (for mobile apps) and sending the content
   of the OA document into the iframe. More details can be found <a href="https://github.com/Open-Attestation/adr/blob/master/decentralised_rendering.md">here</a>.
 </p>
-<h3 id="healthcert-partners">HealthCerts partners</h3>
-<h4> List of HealthCerts Providers</h4>
-<p>
-  Providers below provide issuance service to clinics and labs such as Innovative
-  Diagnostics, Gleneagles Hospital and Parkway Shenton Medical Group in Singapore
-  and globally. <strong>We welcome private sector entities to sign up as partners to issue
-  digital certificates compliant with the HealthCerts schema by contacting us at</strong>
-  <a href="mailto:info@tech.gov.sg">info@tech.gov.sg</a>.
-</p>
-    <figure style="text-align: center">
-      <a href="https://www.healthcerts.gov.sg/list-of-providers/">
-      <img
-        src="/assets/img/healthcerts-providers.png"
-        alt="list of healthcerts providers"/>
-        </a>
-    </figure>
+<h4> Notarise and Verify a Health Certificate</h4>
 <p>
   For added assurance, Digital Certificates may be digitally notarized by the
   Government through <strong>Notarise</strong> to ease downstream verification by ensuring:
@@ -287,7 +259,7 @@ provide global solutions.
         </p>
       </li>
     </ul>
-    <h4>Store a Health Certificate (Digital Wallets</h4>
+    <h4>Store a Health Certificate (Digital Wallets)</h4>
     <p>
       We have open-sourced the reference implementation to store and share
       HealthCerts on mobile wallets -
@@ -306,3 +278,33 @@ provide global solutions.
       </li>
     </ul>
   <p>
+<h3 id="open-attestation-framework">Open Attestation Framework</h3>
+    <p>
+      HealthCerts is powered by <a href="https://www.openattestation.com/">OpenAttestation</a>,
+      an open-source framework using blockchain to issue cryptographically trustworthy
+      documents which can be verified independently without the need for proprietary
+      software equipment. OpenAttestation is the base framework behind
+      <strong>HealthCerts</strong>, <a href="https://www.developer.tech.gov.sg/technologies/blockchain/opencerts">OpenCerts</a>,
+      and <a href="https://www.tradetrust.io/">TradeTrust</a>.
+    </p>
+    <p>
+    OpenAttestation is an open-source framework for verifiable document and
+    transferable records. For more information, you may visit <a href="https://www.openattestation.com/docs/getting-started">
+      https://www.openattestation.com/docs/getting-started</a>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/PJxa8gFUI6k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h3 id="healthcert-partners">HealthCerts partners</h3>
+<h4> List of HealthCerts Providers</h4>
+<p>
+  Providers below provide issuance service to clinics and labs such as Innovative
+  Diagnostics, Gleneagles Hospital and Parkway Shenton Medical Group in Singapore
+  and globally. <strong>We welcome private sector entities to sign up as partners to issue
+  digital certificates compliant with the HealthCerts schema by contacting us at</strong>
+  <a href="mailto:info@tech.gov.sg">info@tech.gov.sg</a>.
+</p>
+    <figure style="text-align: center">
+      <a href="https://www.healthcerts.gov.sg/list-of-providers/">
+      <img
+        src="/assets/img/healthcerts-providers.png"
+        alt="list of healthcerts providers"/>
+        </a>
+    </figure>
