@@ -2,13 +2,13 @@
 title: BookingSG
 layout: layout-page-sidenav
 category: Data and APIs
-description: BookingSG is a Calendaring, Rostering, Availability and Booking (CRAB) management tool for agencies that offer services which require pre-booking
+description: BookingSG is a Calendaring, Rostering, Availability and Booking (CRAB) management tool for agencies that offer services which require pre-booking.
 ---
 
 ## Overview
 
 Agencies that offer services which require pre-booking can use BookingSG to perform Calendaring, Rostering, Availability and Booking (CRAB) management. BookingSG can be leveraged as a service on its own: it can be offered as part of a user journey or it can be used as an engine. BookingSG aims to serve these 3 user groups:
-![3 User Groups](/assets/img/BookingSG-3UserGroups.png)\
+![3 User Groups](/assets/img/BookingSG-3UserGroups.png)
 *Examples of services are: a person’s time, facilities, events or courses and for crowd control purposes.*
 
 ### Benefits of using BookingSG?
@@ -41,4 +41,4 @@ We can leverage on BookingSG’s various service options to help improve user jo
 
 ### How to get started?
 
-Get a conversation with us email us at: Kuah Zi Yang (<KUAH_Zi_Yang@tech.gov.sg>) and Frankie Chew (<Frankie_CHEW@tech.gov.sg>)
+Get a conversation with us. Email to: Kuah Zi Yang, <KUAH_Zi_Yang@tech.gov.sg> and Frankie Chew, <Frankie_CHEW@tech.gov.sg>.
