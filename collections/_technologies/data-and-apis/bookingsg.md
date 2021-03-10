@@ -11,10 +11,7 @@ Agencies that offer services which require pre-booking can use BookingSG to perf
 ![3 User Groups](/assets/img/BookingSG-3UserGroups.png)
 *Examples of services are: a person’s time, facilities, events or courses and for crowd control purposes.*
 
-### Benefits of using BookingSG?
-![Benefits](/assets/img/BookingSG-Benefits.png)
-
-### How can BookingSG be used?
+### Features
 ![How to Use](/assets/img/BookingSG-HowtoUse.png)
 
 BookingSG’s fluid integration principles offer the highest form of flexibility, and it can cater for any degree of journey experience for various use cases. BookingSG adopts one of the most popular cloud computing models -- ‘Software-as-a-Service’ (Saas). The SaaS model of software delivery is easy to access and it has become common for many types of business applications. The SaaS model can help MVP launches get their businesses running for a start, while we work with agencies on their product evolution journey.
@@ -35,10 +32,13 @@ We can leverage on BookingSG’s various service options to help improve user jo
 
 *All approaches mentioned above are available for both citizen and agency portals.*
 
-### BookingSG in action?
+### Benefits
+![Benefits](/assets/img/BookingSG-Benefits.png)
+
+### BookingSG in action
 
 ![In Action](/assets/img/BookingSG-InAction.png)
 
-### How to get started?
+### Get started
 
 Get a conversation with us. Email to: Kuah Zi Yang, <KUAH_Zi_Yang@tech.gov.sg> and Frankie Chew, <Frankie_CHEW@tech.gov.sg>.
