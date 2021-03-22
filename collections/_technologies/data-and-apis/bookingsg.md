@@ -2,12 +2,12 @@
 title: BookingSG
 layout: layout-page-sidenav
 category: Data and APIs
-description: BookingSG is a Calendaring, Rostering, Availability and Booking (CRAB) management tool for agencies that offer services which require pre-booking.
+description: BookingSG is a Calendaring, Availability, Rostering and Booking (CARB) management tool for agencies that offer services which require pre-booking.
 ---
 
 ## Overview
 
-Agencies that offer services which require pre-booking can use BookingSG to perform Calendaring, Rostering, Availability and Booking (CRAB) management. BookingSG can be leveraged as a service on its own: it can be offered as part of a user journey or it can be used as an engine. BookingSG aims to serve these 3 user groups:
+Agencies that offer services which require pre-booking can use BookingSG to perform Calendaring, Availability, Rostering and Booking (CARB) management. BookingSG can be leveraged as a service on its own: it can be offered as part of a user journey or it can be used as an engine. BookingSG aims to serve these 3 user groups:
 ![3 User Groups](/assets/img/BookingSG-3UserGroups.png)
 *Examples of services are: a person’s time, facilities, events or courses and for crowd control purposes.*
 
@@ -26,7 +26,7 @@ We can leverage on BookingSG’s various service options to help improve user jo
 
 ![User Journey](/assets/img/BookingSG-UserJourney.png)
 
-- **As an engine:** Use BookingSG as a m engine to serve highly complicated use cases and integrate BookingSG using API to leverage on common CRAB logics. Agencies have full autonomy on how calendars and bookings are presented to users.
+- **As an engine:** Use BookingSG as a m engine to serve highly complicated use cases and integrate BookingSG using API to leverage on common CARB logics. Agencies have full autonomy on how calendars and bookings are presented to users.
 
 - **As all the above:** DIY based on your needs. Form using admin portal as a SAAS, adding additional business logic before redirecting to BookingSG for slot selection and building a search query page for all availabilities supported by API integration. Leverage power of various approaches at the same time to supercharge your offering.
 
