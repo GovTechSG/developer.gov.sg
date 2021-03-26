@@ -40,10 +40,11 @@ To help developers to approach software development with security in mind, there
 
   
 
-## **Are web frameworks secure? How can I implement security?**
+## **Are web frameworks secure?**
 
 Web frameworks such as Django, Rails, Spring, and Express are popular among web developers because they have a large ecosystem of open source libraries. These popular frameworks make it easier for developers to avoid many common vulnerabilities as they provide many built-in security features, or have libraries that do so. However, the use of popular web frameworks does not automatically make the web application secure. It is important to understand the security features provided by these frameworks, how to enable or use them properly, and the limits of these features.
 
+## **How can I implement security?**
 For starters, Mozilla provides a [Web Security Cheat Sheet](https://infosec.mozilla.org/guidelines/web_security) which serves as a reference guide for its development team. The guide illustrates the level of security benefit and implementation difficulty of each guideline. For specific framework’s security implementations, developers can refer to the following resources to implementing security in applications:
 
 *   **Django** provides documentation on its [security features](https://docs.djangoproject.com/en/3.1/topics/security/) as well as a [deployment checklist](https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/) which automates some of the security checks.
