@@ -1,3 +1,9 @@
+- name: STACK-X Conference
+  description: >
+    The STACK-X Conference lorem ipsum
+  items:
+    - Overview
+    - Past Webinars
 - name: STACK-X Meetups
   description: >
     The STACK-X Meetups community warmly welcomes anyone who is
