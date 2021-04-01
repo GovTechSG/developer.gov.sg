@@ -20,6 +20,17 @@
   offer: 1000
   open: false
   bid_link: ""
+
+- title: Freelance Content Writer
+  skills:
+    - Technical writing
+  posted: 2021-04-02
+  closing: 2021-04-07
+  duration: 3 weeks
+  offer: 1
+  open: true
+  bid_link: ""
+
 # - title: Video for product demonstration
 #   skills:
 #     - Video editing

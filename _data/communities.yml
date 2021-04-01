@@ -23,11 +23,12 @@
 - name: Developer Blogs
   description: Read about the innovations of GovTech’s teams!
 
-- name: More Collaboration Opportunities
+- name: COVID-19 Volunteering Opportunities
   description: >
-    Collaborate with GovTech to innovate and build better
-    products for the public good.
-  items:
-    - Overview
-    - GovBuy
-    - COVID-19 Volunteering Opportunities
+    Find out how you can help the Singapore Government in its digital efforts to
+    combat the COVID-19 pandemic
+
+- name: GovBuy
+  description: >
+    GovBuy is an initiative from the Government to offer engineering, design or
+    writing gigs to Singapore citizens and Permanent Residents
