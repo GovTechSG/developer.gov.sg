@@ -19,21 +19,26 @@ To craft informative and easily digestible articles for the Singapore Government
 
 - 1,200 – 1,500 words
 - Stylistically similar to NDI piece [link here](https://medium.com/ndi-sg/stack-x-webinar-national-digital-identity-stack-introduction-to-ndi-34b5dbed9565)
-- Turnaround for first full draft: 7 working days (5 working days + 2 working days for TMO’s review)
+- Turnaround for first full draft: 7 working days (5 working days + 2 working days for GovTech to review)
 
 ### Timeline
 
 - Two articles for publication on SGDP
-  - Publication-ready drafts in Word Doc to be submitted by 30 April 2021
+  - Publication-ready drafts in Word Doc to be submitted
+  within 7 days from first kick-off meeting
 - Option for additional two articles for publication on SGDP
-  - Publication-ready drafts in Word Doc to be submitted by 17 May 2021 (negotiable)
+  - Publication-ready drafts in Word Doc to be submitted within 7 days from first kick-off meeting for each article
 
 ### Deliverables
 
 - Article 1: HealthCerts
   - Preparing for Safe Travel: Blockchain’s Opportunities and Challenges
-  - From 31 Mar’s panel session with BAS, Steven Koh, Accredify, and Affinidi 
+  - From 31 Mar’s panel session with BAS, Steven Koh, Accredify, and Affinidi
+  - Output: Product whitepaper
+  - Sources: Video recording of a webinar, existing writeups/product details will be provided
 - Article 2: Community Engagement Journey (STACK, STACK-X)
+  - Output: Opinion editorial
+  - Sources: Interview to be conducted
 
 ### Skills required
 
@@ -43,7 +48,7 @@ To craft informative and easily digestible articles for the Singapore Government
 
 ### Offer
 
-{% include govbuy-offer-table.md 
+{% include govbuy-offer-table.md
   offer=jobDetails.offer duration=jobDetails.duration
   posted=jobDetails.posted closing=jobDetails.closing %}
 
