@@ -1,3 +1,13 @@
+- title: Freelance Content Writer
+  skills:
+    - Technical writing
+  posted: 2021-04-07
+  closing: 2021-04-12
+  duration: 1 week
+  offer: 200-500 per article
+  open: true
+  bid_link: ""
+
 - title: Updating dependencies for GoGovSG
   skills:
     - GitHub
@@ -21,15 +31,6 @@
   open: false
   bid_link: ""
 
-- title: Freelance Content Writer
-  skills:
-    - Technical writing
-  posted: 2021-04-07
-  closing: 2021-04-12
-  duration: 1 week
-  offer: 200-500 per article
-  open: true
-  bid_link: ""
 
 # - title: Video for product demonstration
 #   skills:
