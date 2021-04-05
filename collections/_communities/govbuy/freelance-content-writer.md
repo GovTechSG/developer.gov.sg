@@ -32,10 +32,8 @@ To craft informative and easily digestible articles for the Singapore Government
 ### Deliverables
 
 - Article 1: HealthCerts
-  - Preparing for Safe Travel: Blockchain’s Opportunities and Challenges
-  - From 31 Mar’s panel session with BAS, Steven Koh, Accredify, and Affinidi
-  - Output: Product whitepaper
-  - Sources: Video recording of a webinar, existing writeups/product details will be provided
+  - Output: Product white-paper
+  - Sources: Video recording of a webinar, existing write-ups/product details will be provided
 - Article 2: Community Engagement Journey (STACK, STACK-X)
   - Output: Opinion editorial
   - Sources: Interview to be conducted
