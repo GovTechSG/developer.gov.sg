@@ -28,7 +28,7 @@ To craft informative and easily digestible articles for the Singapore Government
 ### Deliverables
 
 - Article 1:
-  - Output: Product white-paper on [HealthCerts] (https://www.developer.tech.gov.sg/technologies/digital-solutions-to-address-covid-19/healthcerts)
+  - Output: Product white-paper on [HealthCerts](https://www.developer.tech.gov.sg/technologies/digital-solutions-to-address-covid-19/healthcerts)
   - Sources: Video recording of a webinar, existing write-ups/product details will be provided
 - Article 2:
   - Output: Opinion editorial
