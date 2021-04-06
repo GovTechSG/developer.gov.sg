@@ -51,6 +51,6 @@ To craft informative and easily digestible articles for the Singapore Government
 - CV
 - Writing portfolio with minimally three articles ranging from 1,000 to 2,000 words; **tech content writing is a plus** (published content is preferred)
 - In the interest of timeliness and relevancy, a minimum of one candidate application is needed for this job
-<a href="{{ https://go.gov.sg/contentwriterapplication }}" class="sgds-button is-primary">
+<a href="https://go.gov.sg/contentwriterapplication" class="sgds-button is-primary">
   Submit your application here
 </a>
