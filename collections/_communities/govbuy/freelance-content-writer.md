@@ -21,16 +21,16 @@ To craft informative and easily digestible articles for the Singapore Government
 
 - Two articles for publication on SGDP
   - Publication-ready drafts in Word Doc to be submitted
-  within 7 days from first kick-off meeting
+  within 14 days from first kick-off meeting
 - Option for additional two articles for publication on SGDP
-  - Publication-ready drafts in Word Doc to be submitted within 7 days from first kick-off meeting for each article
+  - Publication-ready drafts in Word Doc to be submitted within 14 days from second kick-off meeting 
 
 ### Deliverables
 
-- Article 1:
+- Article 1
   - Output: Product white-paper on [HealthCerts](https://www.developer.tech.gov.sg/technologies/digital-solutions-to-address-covid-19/healthcerts)
   - Sources: Video recording of a webinar, existing write-ups/product details will be provided
-- Article 2:
+- Article 2
   - Output: Opinion editorial
   - Sources: Interview to be conducted
 
@@ -48,8 +48,8 @@ To craft informative and easily digestible articles for the Singapore Government
 
 ### Additional information needed
 
-- CV
-- Writing portfolio with minimally three articles ranging from 1,000 to 2,000 words; **tech content writing is a plus** (published content is preferred)
+- To provide CV
+- To provide writing portfolio with minimally three articles ranging from 1,000 to 2,000 words; **tech content writing is a plus** (published content is preferred)
 - In the interest of timeliness and relevancy, a minimum of one candidate application is needed for this job
 <a href="https://go.gov.sg/contentwriterapplication" class="sgds-button is-primary">
   Submit your application here
