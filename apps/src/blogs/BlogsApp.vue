@@ -29,7 +29,7 @@
         <div class="row">
           <div class="col is-4" v-for="blog in feed.Blogs" :key="blog.ID">
             <a :href="blog.Url" target="_blank">
-              <div class="sgds-card">
+              <div class="sgds-card patterned">
                 <div class="sgds-card-content">
                   <h5>{{ blog.Title }}</h5>
                   <p class="is-size-8 has-text-weight-light has-text-left">
@@ -124,7 +124,6 @@ export default {
 
 <style scoped>
 .sgds-card {
-  background-image: url("/assets/img/bg-memphispattern.png");
   color: #ffffff;
   height: 100%;
 }

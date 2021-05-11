@@ -1,0 +1,64 @@
+- type: Video Types
+#   speakers: Speakers in the video. Split by ", "
+#     📢 Please make sure that the speakers name is in the same sequence as speakers title 📢 
+#   speakers_title: Speakers' title in the video. Split by "| "
+#   title: Video title
+#   id: Video Id
+#   Reference: https://docs.google.com/spreadsheets/d/1szkJAWTP0GZCNjZAxQobBAUsor_4URaqheqH70r5BZI/edit#gid=0
+
+- type: Opening
+  speakers: 'Kok Ping Soon'
+  speakers_title: 'Chief Executive, GovTech'
+  title: 'Welcome Remarks'
+  id: 'to6xbAPjzEk'
+- type: Keynote - VOD
+  speakers: 'Chan Cheow Hoe'
+  speakers_title: 'Government Chief Digital Technology Officer'
+  title: 'CI/CD Shaping modernisation in Singapore Government'
+  id: 'RlZCyexsJBc'
+- type: Keynote - VOD
+  speakers: 'Sriram Narayanan'
+  speakers_title: 'Technology Principal, ThoughtWorks'
+  title: 'The Journey to Continuous Delivery'
+  id: 'BLvLs5Fbn7g'
+- type: Keynote - VOD
+  speakers: 'Kevin Ng'
+  speakers_title: 'Director, CODEX, GovTech'
+  title: 'SHIP-HATS Roadmap'
+  id: 'zlQEtPlTZmw'
+- type: Keynote - VOD
+  speakers: 'Chia Hsiao Ming'
+  speakers_title: 'Director, Engineering Productivity, GovTech'
+  title: 'SHIP-HATS – Architecture Approach'
+  id: 'yiD4--KSdTI'
+- type: Keynote - Live Chat
+  speakers: 'Kevin Ng'
+  speakers_title: 'Director, CODEX, GovTech'
+  title: 'Fireside Chat With Agencies'
+  id: 'cPw6l7-CAjw'
+   
+- type: Product - VOD
+  speakers: 'Linda Chang'
+  speakers_title: 'Assistant Director, GovTech'
+  title: 'SHIP-HATS Overview For Newbies'
+  id: 'oqqM1Q25b-0'
+- type: Product - VOD
+  speakers: 'Goh Chun Teck'
+  speakers_title: 'Software Engineer, GovTech'
+  title: 'Security Testing With SHIP-HATS'
+  id: 'SVomPCqKGM4'
+- type: Product - VOD
+  speakers: 'Hudson Lee'
+  speakers_title: 'Lead DevOps Engineer, GovTech'
+  title: 'Continuous Delivery With SHIP-HATS'
+  id: 'DMMhqLKHLx0'
+- type: Product - VOD
+  speakers: 'Chew Pei Yi'
+  speakers_title: 'Associate Delivery Manager, GovTech'
+  title: 'Understanding SHIP-HATS Subscription'
+  id: 'ksUEnR78m4w'
+- type: Product - VOD
+  speakers: 'Abhijeet Menon, Sathappan Subramaniam'
+  speakers_title: 'Senior Solution Architect, GovTech| Lead Project Manager, NCS'
+  title: 'CI/CD Strategy to Modernisation for PA'
+  id: '-eRz5zdtElE'

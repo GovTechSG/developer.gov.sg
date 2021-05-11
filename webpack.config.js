@@ -9,7 +9,6 @@ module.exports = (env, argv) => {
     entry: {
       "vue-article-editor-app": "./apps/src/articles/vue-article-editor-app.js",
       "vue-terms-app": "./apps/src/terms/vue-terms-app.js",
-      "vue-review-app": "./apps/src/reviews/vue-review-app.js",
       "vue-events-app": "./apps/src/events/vue-events-app.js",
       "vue-workflow-app": "./apps/src/workflows/vue-workflow-app.js",
       "vue-add-page-app": "./apps/src/pages/vue-add-page-app.js",
@@ -57,10 +56,6 @@ module.exports = (env, argv) => {
         {
           test: /\.vue$/,
           use: "vue-loader",
-        },
-        {
-          test: /\.md$/,
-          use: ["html-loader", "markdown-loader"],
         },
       ],
     },

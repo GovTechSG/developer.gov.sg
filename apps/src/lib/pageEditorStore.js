@@ -25,7 +25,6 @@ import {
   TableCell,
   TableRow
 } from "tiptap-extensions";
-import initialContent from "./contributionTemplate.md";
 
 Vue.use(Vuex);
 
@@ -73,7 +72,8 @@ const pageEditor = {
         // don't use !content to allow 0, "" etc.
         state.editor = new Editor({
           extensions,
-          content: initialContent
+          content: `<h1>This is a page builder.</h1>
+<p>You can compose <em>rich</em> <strong>content</strong> here.</p>`
         });
       } else {
         state.editor = new Editor({
