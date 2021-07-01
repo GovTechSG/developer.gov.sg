@@ -53,9 +53,9 @@ Check out: **Training: Tools on SHIP-HATS** to know more about the tools availab
 | Next: | Relevant links:<br />•	[Training Resources](/training/index")<br />•	[Subscriptions FAQ](/subscriptions")<br />•	Executive insights |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------ |
            
-| test | Test |
-| ---- | ---- |
 |      |      |
+| ---- | ---- |
+| test | Test |
 
 ### Subscribing to SHIP-HATS
 
@@ -72,7 +72,6 @@ Interested to get started? Check out how to start a trial.
 *Provide short description here*
 
 [For developers](https://trainingresource)
-
 [For IT leaders and managers](https://trainingresource)
 
 Need a documentation that you can’t find here? [Submit a ticket](https://www.developer.tech.gov.sg/singapore-government-tech-stack/toolchain/ship-hats-enquiries) and we 
