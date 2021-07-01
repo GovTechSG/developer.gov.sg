@@ -26,7 +26,7 @@ This is a multi-tenanted Software-as-a-Service (SaaS) hosted on Government Comme
                 
 ### Why is CI/CD important?
 
-#### Benefits of SHIP-HATS
+Benefits of SHIP-HATS
 
 1. **Policy Compliance:** Standardised development tools and environment that is set up in compliance with **Application Infrastructure Architecture Standard(AIAS)** 
 and **Instruction Manual 8 on Information Technology(IM8)** policies.  
@@ -35,7 +35,7 @@ and **Instruction Manual 8 on Information Technology(IM8)** policies.
 4. **Reduce Procurement:** Access to a whole suite of tools instead of sourcing individually.
 5. **GovTech Managed:** The CI/CD tools are set-up, hosted, maintained and supported by GovTech letting you focus on your core application.
 
-#### Tools in SHIP-HATS
+Tools in SHIP-HATS
 
 |     Category  |                  Tools                     |
 |     --------  | ------------------------------------------ |
@@ -49,10 +49,6 @@ Check out: **Training: Tools on SHIP-HATS** to know more about the tools availab
 ### Roadmap
 
 ![ship and hats roadmap](/assets/img/ship-hats-roadmap.jpg)
-### Relevant links
-- [Training Resources](./training) 
-- [Subscriptions FAQ](./subscriptions)
-- [Executive insights](./executive-insights)
 
 ### Subscribing to SHIP-HATS
 
@@ -62,14 +58,19 @@ Interested to get started? Check out how to start a trial.
 
 *Provide short description here*
 
-[View training resources](trainingresource)
+[View training resources](./trainingresource)
 
 ### For Developers, IT Leaders and Managers
 
 *Provide short description here*
 
-[For developers](trainingresource)
-[For IT leaders and managers](trainingresource)
+[For developers](./trainingresource)
+[For IT leaders and managers](./trainingresource)
+
+### Relevant Links
+- [Training Resources](./training")
+- [Subscriptions FAQ](./subscriptions")
+- Executive insights
 
 Need a documentation that you can’t find here? [Submit a ticket](./ship-hats-enquiries) and we 
 will prioritise accordingly in our documentation backlog.  
