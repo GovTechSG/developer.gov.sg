@@ -20,9 +20,9 @@ This is a multi-tenanted Software-as-a-Service (SaaS) hosted on Government Comme
 
 ### What’s New? 
 
- Date of update | What’s New? | Coming Soon 
- -------------- |  ---------  | ------------
-|   July 1st    | •	Subscription FAQs [For PM, BA]<br />•	Training Resources [ For PM, BA, DevOps Newbies] | User roles & permissions[All]
+| Date of update | What’s New? | Coming Soon |
+| -------------- |  ---------  | ------------ |
+|   July 1st    | •	Subscription FAQs [For PM, BA]<br />•	Training Resources [ For PM, BA, DevOps Newbies] | User roles & permissions [All] |
                 
 ### Why is CI/CD important?
 
@@ -50,7 +50,7 @@ Check out: **Training: Tools on SHIP-HATS** to know more about the tools availab
 
 ![ship and hats roadmap](/assets/img/ship-hats-roadmap.jpg)
 
-|          Next:       |                  Relevant links:<br />•	[Training Resources](/training/index")<br />•	[Subscriptions FAQ](/subscriptions")<br />•	Executive insights|
+|          Next:       | Relevant links:<br />•	[Training Resources](/training/index")<br />•	[Subscriptions FAQ](/subscriptions")<br />•	Executive insights |
 |       --------       | :-------------------------------------------------- |
            
 ### Subscribing to SHIP-HATS
