@@ -51,7 +51,7 @@ Check out: **Training: Tools on SHIP-HATS** to know more about the tools availab
 ![ship and hats roadmap](/assets/img/ship-hats-roadmap.jpg)
 
 | Next: | Relevant links:<br />•	[Training Resources](/training/index")<br />•	[Subscriptions FAQ](/subscriptions")<br />•	Executive insights |
-| ----- | :---------------------------------------------------------------------------------------------------------------------------------- |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------ |
            
 ### Subscribing to SHIP-HATS
 
