@@ -55,6 +55,7 @@ Check out: **Training: Tools on SHIP-HATS** to know more about the tools availab
            
 | test | Test |
 | ---- | ---- |
+|      |      |
 
 ### Subscribing to SHIP-HATS
 
