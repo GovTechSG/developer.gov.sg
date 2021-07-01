@@ -26,7 +26,7 @@ This is a multi-tenanted Software-as-a-Service (SaaS) hosted on Government Comme
                 
 ### Why is CI/CD important?
 
-#### Benefits of SHIP-HATS
+Benefits of SHIP-HATS
 
 1. **Policy Compliance:** Standardised development tools and environment that is set up in compliance with **Application Infrastructure Architecture Standard(AIAS)** 
 and **Instruction Manual 8 on Information Technology(IM8)** policies.  
@@ -35,7 +35,7 @@ and **Instruction Manual 8 on Information Technology(IM8)** policies.
 4. **Reduce Procurement:** Access to a whole suite of tools instead of sourcing individually.
 5. **GovTech Managed:** The CI/CD tools are set-up, hosted, maintained and supported by GovTech letting you focus on your core application.
 
-#### Tools in SHIP-HATS
+Tools in SHIP-HATS
 
 |     Category  |                  Tools                     |
 |     --------  | ------------------------------------------ |
