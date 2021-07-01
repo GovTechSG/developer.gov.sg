@@ -50,14 +50,6 @@ Check out: **Training: Tools on SHIP-HATS** to know more about the tools availab
 
 ![ship and hats roadmap](/assets/img/ship-hats-roadmap.jpg)
 
-| Next: | Relevant links:<br />•	[Training Resources](/training/index")<br />•	[Subscriptions FAQ](/subscriptions")<br />•	Executive insights |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------ |
-           
-| Next: | Relevant links:<br />•	[Training Resources](/training/index")<br />•	[Subscriptions FAQ](/subscriptions")<br />•	Executive insights |
-| :---------| :---------------- | 
-      | Next:     | • 123 <br /> • 456| 
-
-
 ### Subscribing to SHIP-HATS
 
 Interested to get started? Check out how to start a trial. 
@@ -74,6 +66,11 @@ Interested to get started? Check out how to start a trial.
 
 [For developers](https://trainingresource)
 [For IT leaders and managers](https://trainingresource)
+
+### Relevant Links
+- [Training Resources](/training/index")
+- [Subscriptions FAQ](/subscriptions")
+- Executive insights
 
 Need a documentation that you can’t find here? [Submit a ticket](https://www.developer.tech.gov.sg/singapore-government-tech-stack/toolchain/ship-hats-enquiries) and we 
 will prioritise accordingly in our documentation backlog.  
