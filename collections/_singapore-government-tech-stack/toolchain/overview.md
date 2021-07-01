@@ -46,17 +46,17 @@ and **Instruction Manual 8 on Information Technology(IM8)** policies.
 
 Check out: **Training: Tools on SHIP-HATS** to know more about the tools available on SHIP-HATS.
 
-#### Subscribing to SHIP-HATS
+### Roadmap
 
-Interested to get started? Check out how to start a trial. 
-
-#### Roadmap
-
-<img width="526" alt="ship hats roadmap" src="https://user-images.githubusercontent.com/85614716/123921126-44b7b780-d9b9-11eb-9daf-61b3c587fc21.png">
+![ship and hats roadmap](/assets/img/ship-hats-roadmap.jpg)
 
 |          Next:       |                  Relevant links:<ul><li><a href="/training/index">Training Resources</a></li><li><a href="/subscriptions">Subscriptions FAQ</a></li><li>Executive insights</li></ul>|
 |       --------       | -------------------------------------------------- |
            
+### Subscribing to SHIP-HATS
+
+Interested to get started? Check out how to start a trial. 
+ 
 ### Resources
 
 *Provide short description here*
