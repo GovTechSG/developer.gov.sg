@@ -49,13 +49,10 @@ Check out: **Training: Tools on SHIP-HATS** to know more about the tools availab
 ### Roadmap
 
 ![ship and hats roadmap](/assets/img/ship-hats-roadmap.jpg)
-
-| Next: | Relevant links:<br />•	[Training Resources](/training/index")<br />•	[Subscriptions FAQ](/subscriptions")<br />•	Executive insights |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------ |
-           
-|      |      |
-| ---- | ---- |
-| test | Test |
+### Relevant links
+- [Training Resources](./training) 
+- [Subscriptions FAQ](./subscriptions)
+- [Executive insights](./executive-insights)
 
 ### Subscribing to SHIP-HATS
 
@@ -65,16 +62,16 @@ Interested to get started? Check out how to start a trial.
 
 *Provide short description here*
 
-[View training resources](https://trainingresource)
+[View training resources](trainingresource)
 
 ### For Developers, IT Leaders and Managers
 
 *Provide short description here*
 
-[For developers](https://trainingresource)
-[For IT leaders and managers](https://trainingresource)
+[For developers](trainingresource)
+[For IT leaders and managers](trainingresource)
 
-Need a documentation that you can’t find here? [Submit a ticket](https://www.developer.tech.gov.sg/singapore-government-tech-stack/toolchain/ship-hats-enquiries) and we 
+Need a documentation that you can’t find here? [Submit a ticket](./ship-hats-enquiries) and we 
 will prioritise accordingly in our documentation backlog.  
 
-Got feedback on SHIP-HATS? Submit your feedback in [SHIP-HATS Enquiry](https://www.developer.tech.gov.sg/singapore-government-tech-stack/toolchain/ship-hats-enquiries) and we will respond within 5 business days. 
+Got feedback on SHIP-HATS? Submit your feedback in [SHIP-HATS Enquiry](./ship-hats-enquiries) and we will respond within 5 business days. 
