@@ -22,7 +22,7 @@ This is a multi-tenanted Software-as-a-Service (SaaS) hosted on Government Comme
 
  Date of update | What’s New? | Coming Soon 
  -------------- |  ---------  | ------------
-|   July 1st    | <ul><li>Subscription FAQs [For PM, BA]</li><li>Training Resources [ For PM, BA, DevOps Newbies]</ul>| User roles & permissions[All]
+|   July 1st    | <ul><li>Subscription FAQs [For PM, BA]</li><li>Training Resources [ For PM, BA, DevOps Newbies]</li>| User roles & permissions[All]
                 
 ### Why is CI/CD important?
 
