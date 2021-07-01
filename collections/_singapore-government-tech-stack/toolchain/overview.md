@@ -19,9 +19,11 @@ build, test and deploy code to production.
 This is a multi-tenanted Software-as-a-Service (SaaS) hosted on Government Commercial Cloud(GCC) for all applications that is classified as restricted and below.
 
 ### What’s New? 
-We heard your feedback on Annual Developer Satisfaction Survey 2021 and we are doubling down on providing solid documentation on our products. On this page, you can what 
-we have recently updated and what is coming up soon! 
 
+ Date of update | What’s New? | Coming Soon 
+ -------------- |  ---------  | ------------
+|   July 1st    | <ul><li>Subscription FAQs [For PM, BA]</li><li>Training Resources [ For PM, BA, DevOps Newbies]</ul>| User roles & permissions[All]
+                
 ### Why is CI/CD important?
 
 #### Benefits of SHIP-HATS
@@ -54,7 +56,21 @@ Interested to get started? Check out how to start a trial.
 
 |          Next:       |                  Relevant links:<ul><li><a href="/training/index">Training Resources</a></li><li><a href="/subscriptions">Subscriptions FAQ</a></li><li>Executive insights</li></ul>|
 |       --------       | -------------------------------------------------- |
-            
+           
+### Resources
+
+*Provide short description here*
+
+[View training resources](https://trainingresource)
+
+### For Developers, IT Leaders and Managers
+
+*Provide short description here*
+
+[For developers](https://trainingresource)
+
+[For IT leaders and managers](https://trainingresource)
+
 Need a documentation that you can’t find here? [Submit a ticket](https://www.developer.tech.gov.sg/singapore-government-tech-stack/toolchain/ship-hats-enquiries) and we 
 will prioritise accordingly in our documentation backlog.  
 
