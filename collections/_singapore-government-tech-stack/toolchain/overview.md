@@ -53,7 +53,7 @@ Check out: **Training: Tools on SHIP-HATS** to know more about the tools availab
 | Next: | Relevant links:<br />•	[Training Resources](/training/index")<br />•	[Subscriptions FAQ](/subscriptions")<br />•	Executive insights |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------ |
            
-| :         Relevant Link   :  |test|
+| Next: | Relevant links:<br />•	[Training Resources](/training/index")<br />•	[Subscriptions FAQ](/subscriptions")<br />•	Executive insights |
 | :---------| :---------------- | 
       | Next:     | • 123 <br /> • 456| 
 
