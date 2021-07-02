@@ -66,7 +66,7 @@ Interested to get started? Check out how to start a trial.
 
 [For IT leaders and managers](./trainingresource)
 
-| <div style="width:150px">Next</div>                                                                        |
+| Next                                                                                                       |
 | :--------------------------------------------------------------------------------------------------------- |
 | •	[Training Resources](./training")<br />•	[Subscriptions FAQ](./subscriptions")<br />•	Executive insights |
 
