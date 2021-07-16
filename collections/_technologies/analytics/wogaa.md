@@ -99,7 +99,7 @@ audience preferences and behaviours.
   <figcaption>Fig 7: WOGAA Sentiments Questions on GovTech's Website</figcaption>
 </figure>
 
-### Why should WOGAA be Adopted?
+### Why Should WOGAA be Adopted?
 
 The key benefits of WOGAA from a policy and WOG perspective are as shown below.
 
