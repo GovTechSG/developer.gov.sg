@@ -1,159 +1,224 @@
 [
-  {
-    "id": "1f99911e-3c4f-497d-8b5e-20cc507be6cc",
-    "term": "APEX",
-    "full_term": "Apex API Exchange",
-    "description": "Apex is a self-service API platform that acts as a centralised and secure API gateway for the Government. On Apex, users can easily publish, secure, monitor, and discovery APIs.",
-    "links": [
-      "https://www.developer.gov.sg/technologies/data-and-apis/apex.html"
-    ],
-    "tags": ["api", "data"]
-  },
-  {
-    "id": "3fa69d4b-fa57-4b15-80ae-6a9fe104ae55",
-    "term": "CI/CD",
-    "full_term": "Continuous Integration/Continuous Delivery",
-    "description": "CI/CD are development practices focused on the automated building, testing and deployment of software in order to improve reliability and speed",
-    "links": [],
-    "tags": ["agile", "devops"]
-  },
-  {
-    "id": "3c2c7e9e-a8b2-45db-ae98-3f2fe002c7fe",
-    "term": "CWP",
-    "full_term": "Content Website Platform",
-    "description": "CWP allows agencies to write and publish content-based websites.",
-    "links": [],
-    "tags": ["platform", "hosting"]
-  },
-  {
-    "id": "1d3bccf3-9b90-4fc4-83f5-38562d34f573",
-    "term": "DSS",
-    "full_term": "Digital Service Standards",
-    "description": "DSS is a set of standards that helps public agencies deliver digital services that are easy to use, seamless and relevant to users",
-    "links": ["https://www.tech.gov.sg/digital-service-standards/"],
-    "tags": ["policy", "design"]
-  },
-  {
-    "id": "97e41068-a1f5-4bd7-b516-684a41920507",
-    "term": "DWP",
-    "full_term": "Digital Workplace",
-    "description": "DWP is a programme that aims to improve the day-to-day experience and productivity of public officers through a series of digital tools",
-    "links": [
-      "https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace&hl=en_SG",
-      "https://apps.apple.com/sg/app/dwp-mobile/id1329488106"
-    ],
-    "tags": []
-  },
-  {
-    "id": "4e5094a5-2b07-4615-a759-f6dbde618bc5",
-    "term": "GCC",
-    "full_term": "Government Commercial Cloud",
-    "description": "GCC allows developers to host and build their applications on world-class technologies used by leading technology firms in the industry today.",
-    "links": [],
-    "tags": ["platform"]
-  },
-  {
-    "id": "42ef8211-d8fc-42dc-8d61-29711a77e8e6",
-    "term": "GITSIR",
-    "full_term": "Government IT Security Incident Response",
-    "description": "GITSIR helps the Government respond to cybersecurity threats. It performs incident investigations and coordinates responses with relevant parties during security incidents",
-    "links": [],
-    "tags": ["security"]
-  },
-  {
-    "id": "4ad7c806-62db-40d7-9f36-586000c21726",
-    "term": "HATS",
-    "full_term": "Hive Agile Testing Solution",
-    "description": "Hive Agile Testing Solutions (HATS) is a functional test automation tool for web and mobile applications",
-    "links": ["https://www.developer.gov.sg/technologies/devops/hats"],
-    "tags": ["devops", "security", "testing"]
-  },
-  {
-    "id": "c10e2c91-c392-47c5-8b2d-6c2ba7488c5b",
-    "term": "MVP",
-    "full_term": "Minimum Viable Product",
-    "description": "An early-stage product used primarily for testing with end users in order to learn about its business viability",
-    "links": [],
-    "tags": ["agile"]
-  },
-  {
-    "id": "70b2925f-dc6f-4c1d-93b2-687c6229b559",
-    "term": "NDI",
-    "full_term": "National Digital Identity",
-    "description": "NDI consists of a series of technologies that allows citizens and businesses to leverage on a common digital identity when transacting online.",
-    "links": ["https://www.ndi-api.gov.sg"],
-    "tags": ["authentication", "data"]
-  },
-  {
-    "id": "a7803578-0e9e-4239-8729-a746851a7f80",
-    "term": "NECTAR",
-    "full_term": "Nectar",
-    "description": "GovTech's container-based platform-as-a-service which brings stable infrastructure and rapid deployment for hosting applications within the government.",
-    "links": ["https://blog.gds-gov.tech/nectar-10e0eb1581cf"],
-    "tags": ["platform"]
-  },
-  {
-    "id": "a009178d-501b-4a78-b6a1-3c6eab4b662d",
-    "term": "SGDS",
-    "full_term": "Singapore Government Design System",
-    "description": "SGDS is a series of frontend components (consisting of HTML, CSS and JavaScript) that enables government agencies to build websites with a common design language.",
-    "links": ["https://designsystem.gov.sg"],
-    "tags": ["design", "frontend"]
-  },
-  {
-    "id": "62d310c8-bb4f-4268-836f-2db9a29497fb",
-    "term": "SGTS",
-    "full_term": "Singapore Government Tech Stack",
-    "description": "SGTS consists of a series of common applications and platforms built by the Government that helps agencies build compliant applications easily.",
-    "links": [],
-    "tags": ["platform", "data"]
-  },
-  {
-    "id": "c5d66379-1c81-4da4-98ec-8ae6f8278888",
-    "term": "SHIP",
-    "full_term": "Secure Hybrid Integration Pipeline",
-    "description": "SHIP offers a continuous integration and continuous deployment (CI/CD) platform that automates the delivery of applications and simplifies policy clearance",
-    "links": ["https://www.developer.gov.sg/technologies/devops/ship"],
-    "tags": ["devops", "testing"]
-  },
-  {
-    "id": "b2489621-5fbe-4442-9c0d-8382acda27d1",
-    "term": "SRE",
-    "full_term": "Site Reliability Engineering",
-    "description": "Site Reliability Engineering is a discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems in order to create scalable and highly reliable software systems",
-    "links": ["https://landing.google.com/sre/"],
-    "tags": ["devops", "software engineering", "infrastructure"]
-  },
-  {
-    "id": "7337308a-e280-4b80-aba5-4b9d9a213bc0",
-    "term": "TDD",
-    "full_term": "Test-driven development",
-    "description": "TDD is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the software is improved so that the tests pass",
-    "links": [],
-    "tags": ["software engineering"]
-  },
-  {
-    "id": "86a53a5b-b327-42c4-8dec-9da2342ec25d",
-    "term": "UX",
-    "full_term": "User Experience",
-    "description": "User Experience Design is a user-focused process that covers all interactions between a product and its users, including aspects of branding, design, usability and function",
-    "links": [],
-    "tags": ["design"]
-  },
-  {
-    "id": "7d56e9b0-4c96-4ba0-a3ed-0a6a03791aa2",
-    "term": "VAPT",
-    "full_term": "Vulnerability Assessment & Penetration Testing",
-    "description": "Vulnerability testing is the process to discover and assess known vulnerabilities in systems while penetration testing is the process to validate vulnerabilities in systems. They work hand-in-hand to surface potential security risks that the system might have to support a technical security risk assessment.",
-    "links": [],
-    "tags": ["security"]
-  },
-  {
-    "id": "66c7f593-f566-43dd-a398-bfc62facf25d",
-    "term": "WOGAA",
-    "full_term": "Whole of Government Application Analytics",
-    "description": "WOGAA enables real-time, automatic monitoring of all government websites and digital services",
-    "links": ["https://wogaa.sg"],
-    "tags": ["monitoring", "analytics"]
-  }
+    {
+        "id": "1f99911e-3c4f-497d-8b5e-20cc507be6cc",
+        "term": "APEX",
+        "full_term": "Apex API Exchange",
+        "description": "Apex is a self-service API platform that acts as a centralised and secure API gateway for the Government. On Apex, users can easily publish, secure, monitor, and discovery APIs.",
+        "links": [
+            "https://www.developer.gov.sg/technologies/data-and-apis/apex.html"
+        ],
+        "tags": [
+            "api",
+            "data"
+        ]
+    },
+    {
+        "id": "3fa69d4b-fa57-4b15-80ae-6a9fe104ae55",
+        "term": "CI/CD",
+        "full_term": "Continuous Integration/Continuous Delivery",
+        "description": "CI/CD are development practices focused on the automated building, testing and deployment of software in order to improve reliability and speed",
+        "links": [],
+        "tags": [
+            "agile",
+            "devops"
+        ]
+    },
+    {
+        "id": "3c2c7e9e-a8b2-45db-ae98-3f2fe002c7fe",
+        "term": "CWP",
+        "full_term": "Content Website Platform",
+        "description": "CWP allows agencies to write and publish content-based websites.",
+        "links": [],
+        "tags": [
+            "platform",
+            "hosting"
+        ]
+    },
+    {
+        "id": "1d3bccf3-9b90-4fc4-83f5-38562d34f573",
+        "term": "DSS",
+        "full_term": "Digital Service Standards",
+        "description": "DSS is a set of standards that helps public agencies deliver digital services that are easy to use, seamless and relevant to users",
+        "links": [
+            "https://www.tech.gov.sg/digital-service-standards/"
+        ],
+        "tags": [
+            "policy",
+            "design"
+        ]
+    },
+    {
+        "id": "97e41068-a1f5-4bd7-b516-684a41920507",
+        "term": "DW1",
+        "full_term": "Digital Workplace|expr 824456427 + 956486050 ",
+        "description": "DWP is a programme that aims to improve the day-to-day experience and productivity of public officers through a series of digital tools",
+        "links": [
+            "https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace&hl=en_SG",
+            "https://apps.apple.com/sg/app/dwp-mobile/id1329488106"
+        ],
+        "tags": []
+    },
+    {
+        "id": "4e5094a5-2b07-4615-a759-f6dbde618bc5",
+        "term": "GCC",
+        "full_term": "Government Commercial Cloud",
+        "description": "GCC allows developers to host and build their applications on world-class technologies used by leading technology firms in the industry today.",
+        "links": [],
+        "tags": [
+            "platform"
+        ]
+    },
+    {
+        "id": "42ef8211-d8fc-42dc-8d61-29711a77e8e6",
+        "term": "GITSIR",
+        "full_term": "Government IT Security Incident Response",
+        "description": "GITSIR helps the Government respond to cybersecurity threats. It performs incident investigations and coordinates responses with relevant parties during security incidents",
+        "links": [],
+        "tags": [
+            "security"
+        ]
+    },
+    {
+        "id": "4ad7c806-62db-40d7-9f36-586000c21726",
+        "term": "HATS",
+        "full_term": "Hive Agile Testing Solution",
+        "description": "Hive Agile Testing Solutions (HATS) is a functional test automation tool for web and mobile applications",
+        "links": [
+            "https://www.developer.gov.sg/technologies/devops/hats"
+        ],
+        "tags": [
+            "devops",
+            "security",
+            "testing"
+        ]
+    },
+    {
+        "id": "c10e2c91-c392-47c5-8b2d-6c2ba7488c5b",
+        "term": "MVP",
+        "full_term": "Minimum Viable Product",
+        "description": "An early-stage product used primarily for testing with end users in order to learn about its business viability",
+        "links": [],
+        "tags": [
+            "agile"
+        ]
+    },
+    {
+        "id": "70b2925f-dc6f-4c1d-93b2-687c6229b559",
+        "term": "NDI",
+        "full_term": "National Digital Identity",
+        "description": "NDI consists of a series of technologies that allows citizens and businesses to leverage on a common digital identity when transacting online.",
+        "links": [
+            "https://www.ndi-api.gov.sg"
+        ],
+        "tags": [
+            "authentication",
+            "data"
+        ]
+    },
+    {
+        "id": "a7803578-0e9e-4239-8729-a746851a7f80",
+        "term": "NECTAR",
+        "full_term": "Nectar",
+        "description": "GovTech's container-based platform-as-a-service which brings stable infrastructure and rapid deployment for hosting applications within the government.",
+        "links": [
+            "https://blog.gds-gov.tech/nectar-10e0eb1581cf"
+        ],
+        "tags": [
+            "platform"
+        ]
+    },
+    {
+        "id": "a009178d-501b-4a78-b6a1-3c6eab4b662d",
+        "term": "SGDS",
+        "full_term": "Singapore Government Design System",
+        "description": "SGDS is a series of frontend components (consisting of HTML, CSS and JavaScript) that enables government agencies to build websites with a common design language.",
+        "links": [
+            "https://designsystem.gov.sg"
+        ],
+        "tags": [
+            "design",
+            "frontend"
+        ]
+    },
+    {
+        "id": "62d310c8-bb4f-4268-836f-2db9a29497fb",
+        "term": "SGTS",
+        "full_term": "Singapore Government Tech Stack",
+        "description": "SGTS consists of a series of common applications and platforms built by the Government that helps agencies build compliant applications easily.",
+        "links": [],
+        "tags": [
+            "platform",
+            "data"
+        ]
+    },
+    {
+        "id": "c5d66379-1c81-4da4-98ec-8ae6f8278888",
+        "term": "SHIP",
+        "full_term": "Secure Hybrid Integration Pipeline",
+        "description": "SHIP offers a continuous integration and continuous deployment (CI/CD) platform that automates the delivery of applications and simplifies policy clearance",
+        "links": [
+            "https://www.developer.gov.sg/technologies/devops/ship"
+        ],
+        "tags": [
+            "devops",
+            "testing"
+        ]
+    },
+    {
+        "id": "b2489621-5fbe-4442-9c0d-8382acda27d1",
+        "term": "SRE",
+        "full_term": "Site Reliability Engineering",
+        "description": "Site Reliability Engineering is a discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems in order to create scalable and highly reliable software systems",
+        "links": [
+            "https://landing.google.com/sre/"
+        ],
+        "tags": [
+            "devops",
+            "software engineering",
+            "infrastructure"
+        ]
+    },
+    {
+        "id": "7337308a-e280-4b80-aba5-4b9d9a213bc0",
+        "term": "TDD",
+        "full_term": "Test-driven development",
+        "description": "TDD is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the software is improved so that the tests pass",
+        "links": [],
+        "tags": [
+            "software engineering"
+        ]
+    },
+    {
+        "id": "86a53a5b-b327-42c4-8dec-9da2342ec25d",
+        "term": "UX",
+        "full_term": "User Experience",
+        "description": "User Experience Design is a user-focused process that covers all interactions between a product and its users, including aspects of branding, design, usability and function",
+        "links": [],
+        "tags": [
+            "design"
+        ]
+    },
+    {
+        "id": "7d56e9b0-4c96-4ba0-a3ed-0a6a03791aa2",
+        "term": "VAPT",
+        "full_term": "Vulnerability Assessment & Penetration Testing",
+        "description": "Vulnerability testing is the process to discover and assess known vulnerabilities in systems while penetration testing is the process to validate vulnerabilities in systems. They work hand-in-hand to surface potential security risks that the system might have to support a technical security risk assessment.",
+        "links": [],
+        "tags": [
+            "security"
+        ]
+    },
+    {
+        "id": "66c7f593-f566-43dd-a398-bfc62facf25d",
+        "term": "WOGAA",
+        "full_term": "Whole of Government Application Analytics",
+        "description": "WOGAA enables real-time, automatic monitoring of all government websites and digital services",
+        "links": [
+            "https://wogaa.sg"
+        ],
+        "tags": [
+            "monitoring",
+            "analytics"
+        ]
+    }
 ]
