@@ -1,0 +1,28 @@
+.swiper{
+    &-container{
+        width: 70%;
+        box-sizing: content-box;
+        @include until($tablet){
+            width: 100vw;
+            @at-root .section-explore{
+                padding-left: 0;
+                padding-right: 0;
+            }
+        }
+    }
+    &-slide{
+        height: 100% !important;
+        box-sizing: content-box;
+        .sgds-card{
+            box-sizing:border-box;
+            height: 100% !important;
+            &-content{
+                flex-grow:1;
+            }
+        } 
+    }
+
+    &-wrapper{
+        box-sizing: content-box;
+    }
+}

@@ -11,6 +11,22 @@
   }
 }
 
+.sgds-card-footer {
+  border-top: 0;
+  padding-top:0;
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+.sgds-card-footer-item {
+  padding-top: 0;
+  padding-bottom: 1rem;
+  .swiper-card & {
+    justify-content: left;
+    padding-left: 1.5rem;
+  }
+}
+
 // if card-content is the first child, remove border-top
 .sgds-card{
   > .sgds-card-content:first-child{
@@ -27,7 +43,8 @@
 }
 
 .sgds-card:hover {
-  background-color: $card-hover;
+  transition: all 0.3s;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
 }
 
 .sgds-card-button:hover {
@@ -47,5 +64,54 @@
   }
   &:active {
     transform: translateY(0);
+  }
+}
+
+//dev portal variants - use for products and services
+.sgds-card{
+  &.sgds-card-variant-category-info{
+    height: 100%;
+    img{
+      margin-left: 0;
+    }
+    header{
+      width: 100%;
+      display:inline-flex;
+      justify-content: space-between;
+      gap: 1rem;
+      :not(small){
+        color: $link;
+        text-decoration: underline;
+      }
+      small{
+        margin-top: 0.3rem;
+      }
+    }
+  }
+  // used for webinars
+  &.sgds-card-variant-video-info {
+    .content-grid {
+      display:grid;
+      grid-template-columns: auto 1fr;
+      @media only screen and (max-width: 1240px){
+        grid-template-columns: 1fr;
+      }
+      grid-gap: 1.5rem;
+      img{
+        object-fit: cover;
+        margin:0;
+      }
+    }
+    header{
+      text-decoration: underline;
+    }
+    .date{
+      font-weight: bold;
+    }
+    h4 + p,
+    p + p
+    {
+      margin-top: 1rem;
+    }
   }
 }

@@ -148,44 +148,29 @@ webinars:
     date: 2020-04-16
 ---
 
-<h5>For upcoming STACK-X webinars and a full list of our past events, please visit our <a href="https://go.gov.sg/meetup"  rel="noopener noreferrer nofollow">meetup.com page</a>.</h5>
+<h2>{{page.title}}</h2>
+<p>For upcoming STACK-X webinars and a full list of our past events, please visit our <a href="https://go.gov.sg/meetup"  rel="noopener noreferrer nofollow">meetup.com page</a>.</p>
 
-<h2>Past STACK-X webinars</h2>
-
-<div class="row is-multiline">
+<div class="card-grid-container webinar">
   {% for webinar in page.webinars %}
   {% assign video_url = "https://www.youtube.com/watch?v=" | append: webinar.video_id %}
-  <div class="col is-6 is-flex">
-    <div class="sgds-card">
+    <div class="sgds-card variant-video-info">
       <div class="sgds-card-content">
-        <h4>
+        <div class="content-grid">
           <a href="{{ video_url }}">
-            {{ webinar.name }}
+            <img src="https://img.youtube.com/vi/{{ webinar.video_id }}/hqdefault.jpg" alt="webinar thumbnail">
           </a>
-        </h4>
-        <div class="sgds-card-image">
-          <figure class="sgds-image">
-            <a href="{{ video_url }}">
-              <img
-                alt="webinar thumbnail"
-                src="https://img.youtube.com/vi/{{ webinar.video_id }}/hqdefault.jpg"
-              />
-            </a>
-          </figure>
+          <div class="info">
+            <header>
+              <h4><a href="{{ video_url }}">{{ webinar.name }}</a></h4>
+            </header>
+            <p class="date">
+              {{ webinar.date | date_to_string }}
+            </p>
+            <p>{{ webinar.description | markdownify }}</p>
+          </div>
         </div>
-        <p>
-          <strong>{{ webinar.date | date_to_string }}</strong>&nbsp;{{ webinar.description | markdownify }}
-        </p>
       </div>
-      <div class="sgds-card-footer">
-        <a
-          href="{{ video_url }}"
-          class="sgds-card-footer-item"
-        >
-          Watch webinar
-        </a>
-      </div>
-    </div>
-  </div>
+    </div>  
   {% endfor %}
 </div>

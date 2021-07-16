@@ -3,7 +3,7 @@ layout: layout-page
 ---
 
 <div class="row sidenav-container">
-  <div class="col is-3 is-hidden-touch sidenav">
+  <div class="col is-2 is-hidden-touch sidenav">
     <aside class="sgds-menu">
       <ul class="sgds-menu-list">
         {%- include sidenav.html -%}
@@ -11,7 +11,7 @@ layout: layout-page
     </aside>
   </div>
   {% if page.sharable == true or page.sharable == nil %}
-  <div class="col is-8 is-12-touch">
+  <div class="col is-9 is-offset-1-desktop is-12-touch">
     {{ content }}
     {%- include feedback.html -%}
     <div class="small-viewport-social-media-buttons">
@@ -24,7 +24,7 @@ layout: layout-page
     </p>
   </div>
   {% else %}
-  <div class="col is-9 is-12-touch">
+  <div class="col is-9 is-offset-1-desktop is-12-touch">
     {{ content }}
     {%- include feedback.html -%}
     <p>

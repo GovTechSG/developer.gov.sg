@@ -2,16 +2,14 @@
 @import "sass/abstract/resets";
 @import "~sgds-govtech/sgds/sass/sgds";
 @import "sass/base/typography";
+@import "sass/base/devportal/all";
+@import "sass/base/anchor";
 @import "sass/layout/grid";
-@import "sass/components/navbar";
-@import "sass/components/breadcrumb";
-@import "sass/components/spinner";
-@import "sass/components/cards";
-@import "sass/components/sidenav";
-@import "sass/components/blog-prev-next-links";
-@import "sass/components/footer";
+@import "sass/components/all";
 @import "sass/pages/home";
-@import "sass/pages/govbuy";
+@import "sass/pages/govbuy/all";
+@import "sass/pages/technologies/all";
+@import "sass/vendor/swiper";
 
 a.feedback-banner-link {
   text-decoration: underline;
@@ -39,14 +37,7 @@ a.external-link::after {
     }
   }
 }
-.hero-sub {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  img {
-    max-width: 83%;
-  }
-}
+
 
 .content img,
 .content iframe {

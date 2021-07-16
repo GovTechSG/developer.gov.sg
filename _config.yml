@@ -10,6 +10,7 @@ description: >
   co-create innovative digital solutions with the Government
 # url: "https://www.developer.gov.sg" # Disabling to have jekyll-redirect-from not obey site.url
 logo: /assets/img/logo_developer.gov.sg.png
+search_placeholder: Search
 
 plugins:
   # SEO Usage:

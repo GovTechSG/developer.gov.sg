@@ -11,7 +11,7 @@
     "build": "npm run test:site && webpack --mode=production && JEKYLL_ENV=production bundle exec jekyll build",
     "build:dev": "npm run test:site && webpack && bundle exec jekyll build",
     "dev:concurrent": "concurrently \"npm run dev:static\" \"npm run dev:jekyll\"",
-    "dev:jekyll": "bundle exec jekyll serve",
+    "dev:jekyll": "jekyll serve --livereload",
     "dev:netlify": "NODE_ENV=development netlify dev",
     "dev:static": "webpack --watch",
     "test:site": "NODE_ENV=production mocha --require @babel/register --recursive ./apps/src/tests/**/*.js"
@@ -36,7 +36,7 @@
     "sanitize-html": "^2.3.3",
     "sass": "^1.30.0",
     "sass-loader": "^8.0.0",
-    "sgds-govtech": "^1.3.17",
+    "sgds-govtech": "^1.3.20",
     "style-loader": "^1.3.0",
     "tiptap": "^1.30.0",
     "tiptap-extensions": "^1.33.2",
@@ -50,5 +50,8 @@
     "vuex": "^3.6.0",
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "swiper": "^6.7.0"
   }
 }

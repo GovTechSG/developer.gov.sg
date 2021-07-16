@@ -1,0 +1,15 @@
+.card-grid-container{
+    &.technologies{
+        grid-template-columns: repeat(auto-fill, minmax(25rem, 1fr));
+        padding: 1rem 0;
+        @include until($tablet){
+            grid-template-columns: 1fr;
+        }
+        .grid-item{
+            height: 100%;
+            .sgds-card{
+                height: 100%;
+            }
+        }
+    }
+}

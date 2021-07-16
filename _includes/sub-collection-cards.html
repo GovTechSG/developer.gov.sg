@@ -1,4 +1,4 @@
-<div class="row is-multiline">
+<div class="card-grid-container technologies">
   {% assign page_collection = page.collection %}
   {% assign sub_collection = page.id | split: "/" | shift | shift | first %}
   {% comment %} 
@@ -10,16 +10,19 @@
   {% for document in full_collection %}
     {% assign document_sub_collection = document.id | split: "/" | shift | shift | first %}
     {% if document_sub_collection == sub_collection and page.title != document.title %}
-    <div class="col is-6-desktop is-12-tablet">
-      <div class="sgds-card">
-        <div class="sgds-card-content">
-          <h4><a href="{{ document.url }}">{{ document.title }}</a></h4>
-          <p>
-            {{ document.description | markdownify }}
-          </p>
-        </div>
+
+    <div class="sgds-card sgds-card-variant-category-info grid-item">
+      <div class="sgds-card-content">
+        <header>
+          <a href="{{ category.name | slugify }}"><h4>{{ document.title }}</h4></a>
+        </header>
+        <p>
+          <!-- TODO: [issue] markdownify create blank <p> tag at the top and bottom of description -->
+          {{ document.description | markdownify }}
+        </p>
       </div>
     </div>
+
     {% endif %}
   {% endfor %}
 </div>

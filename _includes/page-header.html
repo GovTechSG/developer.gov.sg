@@ -1,8 +1,16 @@
+{% comment %}get curent collection label{% endcomment %}
+{% assign collection = page.collection %}
+{% if collection and collection != "" %}
+    {% assign currentCollection = site.collections | where: "label", collection | first %}
+{% endif %}
+
 <section
-  class="sgds-section has-background-black padding--bottom--lg padding--top--lg"
-  style="background: url('/assets/img/bg-memphispattern.png') fixed top center;"
+  class="sgds-section breadcrumb-title-section has-background-{{currentCollection.label}} padding--bottom--lg padding--top--lg"
 >
+  <div class="wave-gfx">
+  </div>
   <div class="sgds-container">
+    
     <div class="row">
       <div class="col is-8">
         {% include sgds-breadcrumb.html %}

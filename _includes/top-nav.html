@@ -36,24 +36,17 @@
                     {%- endfor -%}
                 </div>
                 <div class="sgds-navbar-end">
+                    <div class="sgds-navbar-item"><a class="sgds-button is-outlined is-black">Docs Portal</a></div>
+                    
                     {% if page.layout != 'search' %}
-                    <div class="sgds-navbar-item">
-                        <button id="main-search" class="sgds-button is-primary  is-hidden-touch search-toggle" data-target="searchbar-main">
-                            <span class="sgds-icon sgds-icon-search"></span>
-                        </button>
+                    <div class="sgds-navbar-item is-hidden-touch">
+                        <form action="/search/" method="get">
+                            {% include search-box.html id='query-desktop' %}
+                        </form>
                     </div>
                     {% endif %}
                 </div>
             </div>
         </div>
     </nav>
-    <div class="sgds-container is-hidden-touch hide" id="searchbar-main">
-        <div class="row">
-            <div class="col">
-                <form action="/search/" method="get">
-                    {% include search-box.html id='query-desktop' %}
-                </form>
-            </div>
-        </div>
-    </div>
 </div>

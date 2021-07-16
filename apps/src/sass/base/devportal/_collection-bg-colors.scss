@@ -1,0 +1,46 @@
+//   collections:
+//    technologies:
+//    guidelines:
+//    communities:
+//    singapore-government-tech-stack:
+
+
+.has-background{
+    &-technologies{
+        background: linear-gradient(269.14deg, #00C0F3 0%, #0061AF 100%);
+    }
+    &-guidelines{
+        background: linear-gradient(269.14deg, #00C0F3 0%, #00984E 100%);
+    }
+    &-communities{
+        background: linear-gradient(241.84deg, #FF7920 0%, #B41E8E 100%);
+    }
+    &-singapore-government-tech-stack{
+        background: linear-gradient(241.84deg, #A7C539 0%, #00984E 100%);
+    }
+}
+
+
+.wave-gfx{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+    max-width: 1344px;
+    display:flex;
+    justify-content: flex-end;
+    background-image: url("/assets/img/wave-gfx-v2.png");
+    background-repeat: no-repeat;
+    background-position: 150% 40%;
+    @include until($desktop){
+        background-position: -130% 40%;
+    }
+    @include until($tablet){
+        background-position: -20% 40%;
+    }
+    @include until(376px){
+        background-position: 30% 0;
+    }
+}
